@@ -1,0 +1,62 @@
+SMNE01
+New Super Mario Bros
+
+Full Invincibility All Players [Thomas83Lin]
+04146078 38001078
+
+Transformation [Thomas83Lin]
+20C69D08 00001000
+82210001 0154CCE4
+86000001 00000001
+84210001 0154CCE4
+2554CCE4 00000006
+0554CCE4 00000000
+E0000000 80008000
+20C69D08 00000400
+CC000000 00000000
+0554C874 00000030
+E0000000 80008000
+2154C874 00000030
+04354E80 00000002
+E0000000 80008000
+*Single Player Only*
+*Press - to Change Suit*
+*Press B to enable Star Power\Yoshi*
+*WiiMote only*
+*Yoshi only appears on Screen Refresh When Star Power is enabled*
+Thanks Sirpalax g6flavor
+
+All Worlds & Levels\Secret Routes Unlocked\All Stars\All hint movies [Thomas83Lin]
+08C7FECC 000000FF
+21600004 00000000
+08C8055C 01010101
+20100004 00000000
+04C7FE90 00000101
+04C7FE94 01010101
+04C7FE98 01010100
+04C7FE60 0E00FE00
+0553E514 00008D87
+*Only Save Slot 1*
+
+All Worlds Unlocked [Thomas83Lin]
+04C7FE90 00000101
+04C7FE94 01010101
+04C7FE98 01010100
+*Only Save Slot 1*
+
+All Hint Movies Bought [Thomas83Lin]
+08C8055C 01010101
+20100004 00000000
+*Only Save Slot1*
+
+Exit on Unfinished Level [Thomas83Lin]
+040CE3D0 3800006C
+level stays black after you beat it but lets you move on to the next level, and once you save then later start the game again without the code the levels go to there normal blue color
+
+Change Quick Save to Regular Save Option [Thomas83Lin]
+0492FD00 38000002
+
+Change Green Yoshi's Color [Thomas83Lin]
+077F92DC 00000008
+XXXXXxxx 00003BE0
+Blue 3FB79FB0 Red 3FB781C0 Yellow 3FB790B8

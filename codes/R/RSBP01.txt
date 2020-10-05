@@ -1,0 +1,1323 @@
+RSBP01
+Super Smash Bros. Brawl
+
+Assist Trophy Switcher OFFLINE Heinermann, ported by [shadowofchaos]
+4A000000 9018F128
+14000054 XXXXXXXX
+E0000000 80008000
+<!--!include:Assist Trophy List-->
+
+Assist Trophy List
+01000000 Tingle
+02000000 Waluigi
+04000000 Dr. Wright
+00010000 Metroid
+00020000 Nintendogs
+00040000 Mr. Resetti
+00080000 Isaac
+00100000 Saki Amamiya
+00200000 Shadow
+00400000 Stafy
+00800000 Infantry and Tanks
+00000100 Lakitu
+00000200 Knuckle Joe
+00000400 Hammer Bro.
+00000800 Helirin
+00001000 Kat & Ana
+00002000 Jill & Drill Dozer
+00004000 Lyn
+00008000 Little Mac
+00000001 Andross
+00000002 Barbara
+00000004 Gray Fox
+00000008 Custom Robo
+00000010 Samurai Goroh
+00000020 Devil
+00000040 Excitebike
+00000080 Jeff
+
+Pokemon Switches OFFLINE Heinermann, ported by [shadowofchaos]
+4A000000 9018F128
+14000050 XXXXXXXX
+E0000000 80008000
+<!--!include:Pokemon List-->
+
+Pokemon List
+01000000=Togepi
+02000000=Goldeen
+04000000=Gardevoir
+08000000=Wobbuffet
+10000000=Suicune
+20000000=Bonsly
+00010000=Lugia
+00020000=Manaphy
+00040000=Weavile
+00080000=Electrode
+00100000=Metagross
+00200000=No Pokemon
+00400000=Meowth
+00800000=Piplup
+00000100=Gulpin
+00000200=Staryu
+00000400=Ho-oh
+00000800=No Pokeball [shadowofchaos]
+000001000=Snorlax
+000002000=Bellossom
+000004000=Kyogre
+000008000=Latios & Latias
+00000001=Torchic
+00000002=No Pokeball
+00000004=Chikorita
+00000008=Entei
+00000010=Moltres [shadowofchaos]
+00000020=Munchlax
+00000040=Deoxys
+00000080=Groudon
+
+No Closeups for Final Smashes Phantom Wings, ported by [shadowofchaos]
+C20ABD54 00000001
+387E0060 00000000
+C20AB5E0 00000002
+387E0060 C0030010
+60000000 00000000
+No Camera Zoom in with Final Smashes and Dragoons, "adds more flow to the battle" (Phantom Wings)
+
+No Closeups for Final Smashes (and Dragoons) v1.1 Phantom Wings, port by [shadowofchaos]
+040AB5E0 387E0060
+040ABC8C 4800037C
+
+No HUD: v1.1 Phantom Wings, port by [shadowofchaos]
+040E2208 38A00000
+
+No Offscreen Indicators: v1.1 Phantom Wings, port by [shadowofchaos]
+0495CB14 38000000
+
+The Hulk Code (P1) [quadra]
+4A000000 9018F1D8
+1000000A 00000014
+E0000000 80008000
+48000000 805AB0E0
+DE000000 80008180
+14000004 00000001
+E0000000 80008000
+4A000000 9018F140
+140000D8 40000000
+E0000000 80008000
+4A000000 9018F140
+140000CC 42000000
+4A000000 9018F140
+140000D0 C0000000
+E0000000 80008000
+Credit to Y.S.,James0x57,Heinermann,and Amorphis ported by quadra
+
+No Hitbox Mode [quadra]
+4A000000 9018F140
+14000014 40000000
+E0000000 80008000
+original by rohins
+
+Infinite Coins in Grab The Coins P1 [ssbbdude]
+054E03B0 FFFFFFFF
+
+Infinite Coins in Grab The Coins P2 [ssbbdude]
+052D0B8F FFFFFFFF
+
+Infinite Coins in Grab The Coins P3 [ssbbdude]
+05322B8F FFFFFFFF
+
+Infinite Coins in Grab The Coins P4 [ssbbdude]
+05374B8F FFFFFFFF
+
+Speed Modifier [ssbbdude]
+045B6ED0 0048XXXX
+XXXX Values
+00-FFFF can be used
+
+Invisible Items & SSE Enemies [Fred]
+1466B4C6 00000000
+
+Invisible Items & Romaap [Fred]
+205BA850 00001000
+CC000000 00000000
+1466B4C6 00000000
+Press - for toggling on/off (First activated Wiimote)
+
+Invisible Items & Romaap [Fred]
+205BA850 00001000
+1466B4C6 00000000
+Press - to make all items on the screen invisible, but all new items will be visible. (First activated Wiimote)
+
+Break X amount of targets to beat target smash. [jassim]
+2D54217B 00000001
+0154217B 0000000X
+E0000000 80008000
+
+Infinite lives in classic mode [jassim]
+2D27EB67 00000001
+0127EB67 00000099
+E0000000 80008000
+
+number of killed alloyed is always XXXX in endless brawl [jassim]
+0260CD06 0000XXXX
+romaap helped
+
+Allowed Wifi Codes
+
+WITH ANYONE - Basic Brawl Multiplayer Phantom Wings, Ported by [Fred]
+4A000000 9018ED64
+38000000 00FF1000
+10000000 0000000C
+Must Be Host. You must also start the Waiting Room before someone else joins (like having someone join your game instead of you joining theirs). Sometimes when 3 other players join you at once you need to drop out and rejoin again. Also note that you must join with a right player order.
+
+WITH ANYONE - Team Battle Multiplayer Phantom Wings & Jose Gallardo, Ported by [Fred]
+4A000000 9018ED64
+38000000 00FF1100
+10000000 0000000C
+Works without being the host, but the same rule applies for starting the Waiting Room before others join (have them join while you are in the waiting room). Note that there is no rule saying that you and your friend will be on the same team when joining multiplayer, and as usual it takes more time to join multiplayer fights than basic brawl. Also note that you must join with a right player order.
+
+Game mechanics
+
+Dash Dancing original phantom wings [paprika_killer]
+C271A3F4 00000004
+81830058 2C0C000E
+4182000C C0230040
+48000008 FC20D090
+60000000 00000000
+
+upward gravity modifier [paprika_killer]
+0463D0E0 XXXXXXXX
+
+downward gravity modifier [paprika_killer]
+0463D0E4 XXXXXXXX
+
+S-cancel original phantom wings [paprika_killer]
+80000000 8061CCE0
+80000001 00000000
+60000006 00000000
+60000003 00000001
+4A001000 00000000
+4A101001 00000000
+36000000 00000032
+58010000 00000004
+DE000000 80008180
+58010000 00000060
+DE000000 80008180
+92210002 0000007C
+58010000 0000007C
+58010000 0000002C
+92210003 00000004
+4A001002 00000000
+34000038 00000015
+36000038 00000019
+4A001003 00000000
+10000084 00000080
+E2000002 00000000
+80100001 00000008
+62000000 00000001
+E2000003 00000000
+80000001 00000000
+80100000 00000244
+62000000 00000000
+E0000000 80008000
+
+hitstun phantom wings, spunit262 [paprika_killer]
+02B84F48 00030001
+04B83AA8 3ECCCCCD
+brawl default is 0.4
+
+L-cancel original phantom wings [paprika_killer]
+80000000 8061CCE0
+80000001 00000000
+60000006 00000000
+60000003 00000001
+4A001000 00000000
+4A101001 00000000
+36000000 00000032
+58010000 00000004
+DE000000 80008180
+58010000 00000060
+DE000000 80008180
+92210002 00000014
+92210003 00000068
+92210004 0000007C
+58010000 000000C4
+92210006 00000010
+4A000000 8059E68C
+92210007 00000000
+88A00006 00000007
+88A00007 00000006
+86A00007 BF800000
+4A001004 00000000
+32000036 00000018
+4A001003 00000000
+360000C4 80000000
+92210005 000000C4
+88900005 00000007
+94210005 000000C4
+360000C9 80000000
+92210005 000000C8
+88900005 00000007
+94210005 000000C8
+340000C5 80000000
+38000076 FFF70008
+140000C4 42140000
+140000C8 40E00000
+E2000003 00000000
+4A001004 00000000
+30000036 00000018
+4A001003 00000000
+360000C8 80000000
+4A001002 00000000
+92210005 00000040
+88900005 00000006
+94210005 00000040
+E2000002 00000000
+80100001 00000008
+62000000 00000001
+E200000F 00000000
+80000001 00000000
+80100000 00000244
+62000000 00000000
+E0000000 80008000
+
+auto L-cancel original phantom wings [paprika_killer]
+80000000 8061CCE0
+80000001 00000000
+60000006 00000000
+60000003 00000001
+4A001000 00000000
+4A101001 00000000
+36000000 00000032
+58010000 00000004
+DE000000 80008180
+58010000 00000060
+DE000000 80008180
+92210002 0000007C
+92210003 00000014
+58010000 000000C4
+92210004 00000010
+4A000000 8059E68C
+92210005 00000000
+88A00004 00000005
+4A001002 00000000
+30000036 00000018
+4A001003 00000000
+92210005 00000040
+88900005 00000004
+94210005 00000040
+E2000001 00000000
+80100001 00000008
+62000000 00000001
+E200000F 00000000
+80000001 00000000
+80100000 00000244
+62000000 00000000
+E0000000 80008000
+
+Dash cancel with crouch original phantom wings [paprika_killer]
+80000000 8061CCE0
+80000001 00000000
+60000006 00000000
+60000003 00000001
+4A001000 00000000
+4A101001 00000000
+36000000 00000032
+58010000 00000004
+DE000000 80008180
+58010000 00000060
+DE000000 80008180
+92210002 00000014
+92210003 00000068
+58010000 0000007C
+30000038 00000005
+4A001003 00000000
+3400003C BF266666
+4A001002 00000000
+14000040 4F000000
+E2000002 00000000
+80100001 00000008
+62000000 00000001
+E200000F 00000000
+80000001 00000000
+80100000 00000244
+62000000 00000000
+E0000000 80008000
+
+shieldstun spunit262 [paprika_killer]
+C287086C 00000005
+83810034 8083013C
+2C040000 41810014
+1F9CXXXX 3B9CZZZZ
+3880YYYY 7F9C23D6
+60000000 00000000
+(Old shield stun*X+Z)/Y=new shield stun
+
+lagless edges original phantom wings [paprika_killer]
+80000000 8061CCE0
+80000001 00000000
+60000006 00000000
+60000003 00000001
+4A001000 00000000
+4A101001 00000000
+36000000 00000032
+58010000 00000004
+DE000000 80008180
+58010000 00000060
+DE000000 80008180
+92210002 00000014
+58010000 0000007C
+30000038 00000074
+86000002 00000040
+86910002 XXXXXXXX
+E2000001 00000000
+80100001 00000008
+62000000 00000001
+E200000F 00000000
+80000001 00000000
+80100000 00000244
+62000000 00000000
+E0000000 80008000
+floating point, times the animation is sped up.
+
+Buffer modifier original phantom wings [paprika_killer]
+80000000 80623320
+80000001 00000000
+60000006 00000000
+60000003 00000001
+4A001000 00000000
+4A101001 00000000
+36000000 00000032
+58010000 00000004
+DE000000 80008180
+58010000 00000060
+DE000000 80008180
+58010000 00000068
+30000154 00000009
+1400015C 0000000X
+14000150 0000000X
+E2000001 00000000
+80100001 00000008
+62000000 00000001
+E200000F 00000000
+80000001 00000000
+80100000 00000244
+62000000 00000000
+E0000000 80008000
+number of buffer frames, default A and cannot be higher
+
+Melee AirDodge original phantom wings [paprika_killer]
+42000000 80000000
+80000000 8061CCE0
+80000001 00000000
+60000006 00000000
+80000002 8061AC7C
+4A001000 00000000
+36000024 00000007
+92210003 00000024
+86100003 000001C4
+88000002 00000003
+4A001002 00000000
+92210002 00000000
+4A001002 00000000
+DE000000 80008180
+92210003 00000010
+92210004 00000014
+86A00003 40000000
+86A00004 40000000
+60000003 00000001
+4A001000 00000000
+4A101001 00000000
+36000000 00000032
+58010000 00000004
+DE000000 80008180
+58010000 00000060
+92210006 0000007C
+92210007 00000014
+58010000 00000088
+92210008 00000058
+92210009 00000064
+4A001006 00000000
+30000038 00000021
+4A001007 00000000
+36000040 41C00000
+4A001006 00000000
+58010000 0000002C
+58010000 00000004
+100000E4 00000001
+1000010C 00000001
+10000120 00000001
+10000134 00000001
+10000170 00000001
+4A001008 00000000
+1400000C 3E300000
+4A001007 00000000
+36000041 41000000
+4A001008 00000000
+94210004 0000000C
+4A001009 00000000
+94210003 00000008
+4A001007 00000000
+34000041 41000000
+4A001009 00000000
+14000008 00000000
+4A001007 00000000
+34000041 41000000
+9001000A 00000040
+4A000000 8059E68C
+92210005 00000000
+86A00005 3FC00000
+8891000A 00000005
+E2000002 00000000
+4A001006 00000000
+32000038 00000021
+32000038 0000007F
+32000038 00000080
+32000038 00000083
+58010000 0000002C
+58010000 00000004
+100000E4 00000000
+1000010C 00000000
+10000120 00000000
+10000134 00000000
+10000170 00000000
+E2000004 00000000
+80100001 00000008
+62000000 00000001
+E200000F 00000000
+80000001 00000000
+80100000 00000244
+62000000 00000000
+C277C6DC 00000004
+8963FFFC 2C0B0001
+40820008 48000010
+39600000 9963FFFC
+98030000 00000000
+E0000000 80008000
+
+Hitlag Modifier V 2.0 Phantom Wings/Almas [paprika_killer]
+C276CEC0 00000003
+39C0000X 1C84000Y
+7C8473D6 3884000Z
+90830010 00000000
+Y Multiply, X Divide, Z Add
+
+Triple jump glitch fix phantom wings, spunit262 [paprika_killer]
+0485422C 38830003
+
+no FF on C-stick phantom wings, spunit262 [paprika_killer]
+048596DC 40A20008
+makes you only FF when C-stick is held down for more than 4 frames
+
+no auto sweetspot ledges phantom wings, spunit262 [paprika_killer]
+C277C2B0 00000006
+2C04000A 40A20020
+8181003C 816C0018
+C00B0010 C02B001C
+FC000840 40A10008
+38000000 5400CFFF
+60000000 00000000
+
+PS window mod spunit262 [paprika_killer]
+04B84F20 00000004
+4 is default frames
+
+Hybrid airdodge phantom wings [paprika_killer]
+30000038 00000021
+4A001002 00000000
+36000040 41000000
+4A001003 00000000
+9221000A 00000038
+9221000B 0000003C
+4A001005 00000000
+3000000C 00000000
+1400000C 00000001
+9421000A 00000010
+9421000B 00000014
+4A001004 00000000
+14000014 00000000
+E2000001 00000000
+4A001005 00000000
+9221000A 00000010
+9221000B 00000014
+86A0000A 40000000
+86A0000B 40000000
+4A001007 00000000
+9421000A 00000008
+4A001008 00000000
+9421000B 0000000C
+4A001002 00000000
+34000041 41000000
+36000040 42000000
+4A001007 00000000
+14000008 00000000
+4A001008 00000000
+1400000C 3E000000
+34000041 41C00000
+4A000000 8059E68C
+9221000A 00000000
+4A001002 00000000
+9001000B 00000040
+8891000B 0000000A
+34000041 42100000
+4A001004 00000000
+14000018 00000000
+E2000005 00000000
+4A000000 805A0100
+9221000A 00000000
+4A001004 00000000
+36000014 42000000
+9001000B 00000014
+8891000B 0000000A
+4A001006 00000000
+32000038 00000021
+4A001004 00000000
+14000018 00000000
+E2000001 00000000
+34000015 41FFFFFF
+4A001009 00000000
+3000014C 00000000
+4A001004 00000000
+14000018 00000001
+E2000002 00000000
+80100001 00000008
+62000000 00000001
+E200000F 00000000
+80000001 00000000
+80100000 00000244
+62000000 00000000
+E0000000 80008000
+gives you 1 directional airdodge, then normal airdodges
+
+<!--!include:e.g, i want the number to ways be 6999, so it becomes :0260CD06 00006999. why is this useful? so you can cheat in the high scores :P :-->
+
+defeat 1 alloy in 100 man brawl to finish it [jassim]
+0260C986 00000063
+
+the legend of zelda (NES) infinite rupees and invincible [jassim]
+023929AC 000027FA
+
+Pick Any Color You Want [Lunar]
+04691AE2 60000000
+04691BF0 60000000
+0468E7FC 60000000
+0467C69C 60000000
+Original By Igglyboo
+
+Allow More Than 1000 Replays/Stages/Snapshots [Lunar]
+040C5DFC 48000184
+Original By Brkirch
+
+Can start match with only 1 player [Lunar]
+04684C44 2C060001
+Original By spunit262
+
+All players can be on the same team [Lunar]
+04684D5C 38600000
+Original By spunit262
+
+Disable Time Limit On VC Games (Only Works With Rebooter) [brkirch]
+2001ADCC 41820028
+0401ADCC 48000028
+20011319 4182000C
+04011318 4800000C
+20056D31 41800028
+04056D30 48000028
+2001CA01 41820028
+0401CA00 48000028
+2001CC85 41820028
+0401CC84 48000028
+2001C5D1 41820028
+0401C5D0 48000028
+2001CA1D 41820028
+0401CA1C 48000028
+E0000000 80008000
+Big thanks to Link for helping to get this code ported!
+
+Allow Replays Longer Than Three Minutes [brkirch]
+040ED354 60000000
+To save the replay, just press the button you normally would to save replays (the save replay button will not appear on screen).
+
+Unlocker codes
+
+Unlock all Chars: [Link]
+42000000 90000000
+04189860 FFFFFFFF
+04189864 FFFFFFFF
+E0000000 80008000
+Original by Eric
+
+Unlock stages: [Link]
+42000000 90000000
+04189878 FFFFFFFF
+E0000000 80008000
+Original by Eric
+
+Unlock Trophies: [Link]
+42000000 90000000
+0818A0A0 80638063
+21100004 00000000
+E0000000 80008000
+Original by Eric
+
+Unlock Stickers: [Link]
+42000000 90000000
+0818A5B8 80638063
+215D0004 00000000
+E0000000 80008000
+Original by Eric
+
+Unlock Events: [Link]
+42000000 90000000
+0818AD88 80638063
+201F0004 00000000
+E0000000 80008000
+Original by Eric
+
+Player 1 modifiers
+
+Status modifier (P1) [Link]
+4A000000 9018F140
+100000B3 000000XX
+100000B4 000000YY
+E0000000 80008000
+<!--!include:Status modifier information-->
+
+Color modifier (P1) [Link]
+4A000000 9018F140
+1000009D 000000XX
+E0000000 80008000
+<!--!include:Color modifier information-->
+
+Character modifier (P1) [Link]
+4A000000 9018F140
+10000098 000000XX
+E0000000 80008000
+<!--!include:Character IDs-->
+
+Dark character (P1) [Link]
+4A000000 9018F140
+140000B4 00E81219
+E0000000 80008000
+<!--!include:Dark character info-->
+
+Size modifier (P1) [Link]
+4A000000 9018F140
+140000D8 XXXXXXXX
+E0000000 80008000
+<!--!include:Size information-->
+
+Gravity modifier (P1) [Link]
+4A000000 9018F140
+140000E0 XXXXXXXX
+E0000000 80008000
+<!--!include:General FP info-->
+
+Defense ratio modifier (P1) [Link]
+4A000000 9018F140
+140000D0 XXXXXXXX
+E0000000 80008000
+<!--!include:Defense ratio info-->
+
+Attack Ratio Modifier (P1) [Link]
+4A000000 9018F140
+140000CC XXXXXXXX
+E0000000 80008000
+<!--!include:General FP info-->
+
+Player 2 modifiers
+
+Status modifier (P2) [Link]
+4A000000 9018F19C
+100000B3 000000XX
+100000B4 000000YY
+E0000000 80008000
+<!--!include:Status modifier information-->
+
+Color modifier (P2) [Link]
+4A000000 9018F19C
+1000009D 000000XX
+E0000000 80008000
+<!--!include:Color modifier information-->
+
+Character modifier (P2) [Link]
+4A000000 9018F19C
+10000098 000000XX
+E0000000 80008000
+<!--!include:Character IDs-->
+
+Dark character (P2) [Link]
+4A000000 9018F19C
+140000B4 00E81219
+E0000000 80008000
+<!--!include:Dark character info-->
+
+Size modifier (P2) [Link]
+4A000000 9018F19C
+140000D8 XXXXXXXX
+E0000000 80008000
+<!--!include:Size information-->
+
+Gravity modifier (P2) [Link]
+4A000000 9018F19C
+140000E0 XXXXXXXX
+E0000000 80008000
+<!--!include:General FP info-->
+
+Defense ratio modifier (P2) [Link]
+4A000000 9018F19C
+140000D0 XXXXXXXX
+E0000000 80008000
+<!--!include:Defense ratio info-->
+
+Attack Ratio Modifier (P2) [Link]
+4A000000 9018F19C
+140000CC XXXXXXXX
+E0000000 80008000
+<!--!include:General FP info-->
+
+Player 3 modifiers
+
+Status modifier (P3) [Link]
+4A000000 9018F1F8
+100000B3 000000XX
+100000B4 000000YY
+E0000000 80008000
+<!--!include:Status modifier information-->
+
+Color modifier (P3) [Link]
+4A000000 9018F1F8
+1000009D 000000XX
+E0000000 80008000
+<!--!include:Color modifier information-->
+
+Character modifier (P3) [Link]
+4A000000 9018F1F8
+10000098 000000XX
+E0000000 80008000
+<!--!include:Character IDs-->
+
+Dark character (P3) [Link]
+4A000000 9018F1F8
+140000B4 00E81219
+E0000000 80008000
+<!--!include:Dark character info-->
+
+Size modifier (P3) [Link]
+4A000000 9018F1F8
+140000D8 XXXXXXXX
+E0000000 80008000
+<!--!include:Size information-->
+
+Gravity modifier (P3) [Link]
+4A000000 9018F1F8
+140000E0 XXXXXXXX
+E0000000 80008000
+<!--!include:General FP info-->
+
+Defense ratio modifier (P3) [Link]
+4A000000 9018F1F8
+140000D0 XXXXXXXX
+E0000000 80008000
+<!--!include:Defense ratio info-->
+
+Attack Ratio Modifier (P3) [Link]
+4A000000 9018F1F8
+140000CC XXXXXXXX
+E0000000 80008000
+<!--!include:General FP info-->
+
+Player 4 modifiers
+
+Status modifier (P4) [Link]
+4A000000 9018F254
+100000B3 000000XX
+100000B4 000000YY
+E0000000 80008000
+<!--!include:Status modifier information-->
+
+Color modifier (P4) [Link]
+4A000000 9018F254
+1000009D 000000XX
+E0000000 80008000
+<!--!include:Color modifier information-->
+
+Character modifier (P4) [Link]
+4A000000 9018F254
+10000098 000000XX
+E0000000 80008000
+<!--!include:Character IDs-->
+
+Dark character (P4) [Link]
+4A000000 9018F254
+140000B4 00E81219
+E0000000 80008000
+<!--!include:Dark character info-->
+
+Size modifier (P4) [Link]
+4A000000 9018F254
+140000D8 XXXXXXXX
+E0000000 80008000
+<!--!include:Size information-->
+
+Gravity modifier (P4) [Link]
+4A000000 9018F254
+140000E0 XXXXXXXX
+E0000000 80008000
+<!--!include:General FP info-->
+
+Defense ratio modifier (P4) [Link]
+4A000000 9018F254
+140000D0 XXXXXXXX
+E0000000 80008000
+<!--!include:Defense ratio info-->
+
+Attack Ratio Modifier (P4) [Link]
+4A000000 9018F254
+140000CC XXXXXXXX
+E0000000 80008000
+<!--!include:General FP info-->
+
+Unrestricted pause camera [Link]
+040A9424 4E800020
+0410B4E0 38800001
+original by Y.S.
+
+Stage Builder codes
+
+Stage Builder Unlimited Objects [Link]
+0551DB7C 00000000
+original by pizzaboy
+
+Stage Builder Allow Overlapping [Link]
+01515A78 00000001
+original by pizzaboy
+
+Stage override [Link]
+046D75AC 3B6000XX
+00 - Battle
+01 - BattleField (Battlefield)
+02 - Final (Final Destination)
+03 - Dolpic (Delfino Plaza)
+04 - Mansion (Luigi's Mansion)
+05 - MarioPast (Mushroomy Kingdom)
+06 - Kart (Mario Circuit)
+07 - Donkey (75 m)
+08 - Jungle (Rumble Falls)
+09 - Pirates (Pirate Ship)
+0A - Zelda2 (Bridge of Eldin)
+0B - Norfair (Norfair)
+0C - Orpheon (Frigate Orpheon)
+0D - Crayon (Yoshi's Island)
+0E - Halberd (Halberd)
+0F - TestHalberd_00
+10 - TestHalberd_01
+11 - TestHalberd_02
+12 - Karby2
+13 - Starfox (Lylat Cruise)
+14 - Stadium (Pokémon Stadium 2)
+15 - Tengan (Spear Pillar)
+16 - Fzero (Port Town Aero Dive)
+17 - Ice (Summit)
+18 - Gw (Flat Zone 2)
+19 - Emblem (Castle Siege)
+1A - TestEmblem_00
+1B - TestEmblem_01
+1C - Madein (WarioWare, Inc.)
+1D - Earth (Distant Planet)
+1E - Palutena (Skyworld)
+1F - Famicom (Mario Bros.)
+20 - Newpork (New Pork City)
+21 - Village (Smashville)
+22 - Metalgear (Shadow Moses Island)
+23 - Greenhill (Green Hill Zone)
+24 - Pictchat (PictoChat)
+25 - Plankton (Hanenbow)
+26 - ConfigTest
+27 - Viewer
+28 - Result
+29 - DxShrine (Temple)
+2A - DxYorster (Yoshi's Island)
+2B - DxGarden (Jungle Japes)
+2C - DxOnett (Onett)
+2D - DxGreens (Green Greens)
+2E - DxPStadium (Pokémon Stadium)
+2F - DxRCruise (Rainbow Cruise)
+30 - DxCorneria (Corneria)
+31 - DxBigBlue (Big Blue)
+32 - DxZebes (Brinstar)
+33 - Oldin
+34 - Homerun (Homerun Contest)
+35 - Edit (Stages made using the Stage Builder.)
+36 - Heal (All-Star Resting Stage)
+37 - OnlineTraining
+38 - TargetBreak (Break The Targets)
+39 - CharaRoll
+3A - General
+3B - Adventure
+3C - Adventure0
+3D - Adventure2
+3E - AdvMeleeTest
+3F - AdvMelee
+40 - BattleS
+41 - BattleFieldS
+42 - Max
+43 - Unknown
+
+Infinite jumps
+
+Must be on [Link]
+C2837F1C 00000004
+807900D8 80A30064
+80A50020 80A5000C
+A8850002 5484103E
+7CA2212E 00000000
+Original by Y.S.
+
+P1 infinite jumps [Link]
+48000000 805AB0E0
+DE000000 80008180
+14000004 00000001
+E0000000 80008000
+Original by Y.S.
+
+P2 infinite jumps [Link]
+48000000 805AB0E0
+DE000000 80008180
+14000004 00000001
+E0000000 80008000
+Original by Y.S.
+
+P3 infinite jumps [Link]
+48000000 805AB0E0
+DE000000 80008180
+14000004 00000001
+E0000000 80008000
+Original by Y.S.
+
+P4 infinite jumps [Link]
+48000000 805AB0E0
+DE000000 80008180
+14000004 00000001
+E0000000 80008000
+Original by Y.S.
+
+Match settings [Link]
+4A000000 9018F128
+14000020 SSTTUUVV
+14000024 WWXXYYZZ
+E0000000 80008000
+Original by Heinermann:
+
+SS
+0x04 - Match is a Tournament
+0x08 - Match is Multi-Man Brawl
+0x20 - Stadium Game
+ 
+TT
+0x01 - Timer counts up
+0x02 - Score Match
+0x04 - BTT
+0x08 - HRC
+0x10 - Unknown (#players?)
+0x20 - Stock Match? (#players?)
+0x40 - Coin Match
+ 
+UU
+0x01 - Team Attack
+0x02 - Timer counts up
+0x10 - HRC
+0x80 - Match is Timed
+ 
+VV
+0x02 - Hide the damage gauge
+0x04 - Unknown (not stock)
+0x08 - Allow pausing
+0x20 - HP-based Match
+ 
+WW
+0x01 - Match is BTT
+0x08 - Fixed Camera
+0x10 - Angled Camera
+0x80 - Don't use score
+ 
+XX
+0x20 - Players???
+ 
+YY
+0x20 - Difficulty (3 bits)
+ 
+ZZ
+Unknown
+
+Music Modifier [Link]
+4A000000 90180F08
+14000076 FF00XXXX
+E0000000 80008000
+Original Heinermann/Full Metal Kirby
+
+Multiple Assist trophies [Link]
+04625D28 00000000
+04625DE0 00000000
+Original Crash's Cavern
+Note: This code is highly instable!
+
+Override next assist trophy [Link]
+049AB5F4 3BE000XX
+00 Empty
+01 Franklin Badge
+02 Banana
+03 Barrel
+04 Laser sword
+05 Newspaper ??????
+06 Bomb
+07 Box
+08 Bumper
+09 Capsule
+0A Box
+0B Empty
+0C Gooey Bomb
+0D Rocket launcher
+0E Rocket falling down (instant explosion)
+0F Coin
+10 Curry
+11 Empty
+12 Confusion Bomb
+13 That stupid thing by Ness
+14 Dragoon Part
+15 Dragoon
+16 Crosshair appears on screen, unusable
+17 Trophy
+18 Fire flower
+19 Explosion in the air
+1A Ice block
+1B Super hammer
+1C Blue shell
+1D Hammer
+1E Hammer top
+1F Fan
+20 Heart piece
+21 Bat
+22 Party Ball
+23 Flying heart
+24 Maxi Tomato
+25 Poison Mushroom
+26 Super Mushroom
+27 Metal Box
+28 Fire ball
+29 Pitfall
+2A Pokéball
+2B Danger box
+2C Laser pistol
+2D Empty
+2E Flower
+2F Empty
+30 Empty
+31 Sandbag
+32 Metroid ball
+33 Sticker
+34 Mine
+35 Slow-Mo Clock
+36 B Bomb
+37 Final Smash Ball (cannot appear multiple times!)
+38 Fog ball
+39 Spring
+3A Wand
+3B Some sparkling star which disappears immediately
+3C Soccer ball
+3D Super Scope
+3E Empty
+3F Invincibility
+40 Food
+41 Team healer
+42 Lightning
+43 Spiky Ball
+44 Bunny hood
+45 Warp Star ^^
+46 Crash!
+47 Crash!
+... not tried ...
+7E Crash!
+7F Crash!
+80..85 Random Pokémon
+86 Andross
+87 Empty
+88 Barbara the Bat
+89 Gray Fox
+8A Ray MKII
+8B/8C Empty
+8D Samurai Goroh
+8E Devil/Demon
+8F Excitebike
+90 Jeff Andonuts
+91/92 Empty
+93 Lakitu & Spiny
+94 Knuckle Joe
+95 Empty
+96 Hammer Bro
+97 Empty
+98 Blocker
+99 Kat & Ana
+9A Empty
+9B Jill & Drill Dozer
+9C Lyn/Lyndis
+9D Little Mac
+9E Metroid
+9F Nintendog
+A0 Empty
+A1 Resetti
+A2 Isaac
+A3 Empty
+A4 Saki Amamiya
+A5/A6 Empty
+A7 Shadow
+AA Stafy
+AB Infantry
+AC Empty
+AD Tingle
+AE Empty
+AF Waluigi
+B0 Dr. Wright
+B1 Empty
+&gt;=B2 Spawning impossible (just some values up to FF checked)
+
+Mushroom/Lightning related
+
+Mushroom Stacker first try [Link]
+C2891568 00000002
+7C23052E E3E10018
+60000000 00000000
+0483E0F0 38800000
+0483E110 38800000
+0483DEA8 38800001
+04B84808 3F3504F3
+Limitations: any real-time character change (includes but probably not limited to: Zelda&lt;&gt;Shiek, Samus&lt;&gt;Zero Suit Samus, Pokémon Swaps) will reset your size! Dying will also but this is way it is intended to be. Includes lightning!
+
+Super Mushroom growth factor: [Link]
+04B84800 XXXXXXXX
+Normally 3FD9999A=170%..
+
+Poison Mushroom "growth" factor: [Link]
+04B84808 XXXXXXXX
+Normally 3F000000=50%
+In case the stacker is on, this value gets overwritten with 71% (3F3504F3) - this has technical reasons because the game seems to execute the shrink command twice.. while in regular game mode you still appear with 50% of your size, with the stacker it would be only 25%
+
+Normal Lightning (shrinking you or enemies) factor: [Link]
+04B84824 XXXXXXXX
+Normally 3F000000=50%
+
+WTF Lightning (enlarging enemies) factor: [Link]
+04B8481C XXXXXXXX
+Normally 4019999A=240%
+
+Comment area (no codes anymore)
+
+Status modifier information
+Original by Y.S.
+XX and YY are both calculated.. the calculations starts with 00 for both.
+XX
++04 Invisible
++10 Metal
+(14 would be invisible and metal as: 00 (base)+04 (Inv)+10 (Metal)=14)
+YY
++01 Reflect
++02 Curry
++04 Flower
++08 Bunny hood
++80 HP
+
+Color modifier information
+Original by Y.S.
+XX: Possible colors
+00-05 Normal 6 colors
+06-0B Wario's 6 colors
+0C Emerald (subspace, only some char)
+
+Character IDs
+Original by Y.S.
+XX:
+00 Mario
+01 Donkey Kong
+02 Link
+03 Samus
+04 Zero Suit Samus
+05 Yoshi
+06 Kirby
+07 Fox
+08 Pikachu
+09 Luigi
+0A Captain Falcon
+0B Ness
+0C Bowser
+0D Peach
+0E Zelda
+0F Sheik
+10 Ice Climbers
+11 Popo
+12 Nana
+13 Marth
+14 Mr. Game & Watch
+15 Falco
+16 Ganondorf
+17 Wario
+18 Metaknight
+19 Pit
+1A Pikmin & Olimar
+1B Lucas
+1C Diddy Kong
+1D Charizard
+1E Charizard (Trainer Independant)
+1F Venasaur
+20 Venasaur (Trainer Independant)
+21 Squirtle
+22 Squirtle (Trainer Independant)
+23 Dedede
+24 Lucario
+25 Ike
+26 Robot
+27 Jigglypuff
+28 Toon Link
+29 Wolf
+2A Snake
+2B Sonic
+2C Giga Bowser
+2D WarioMan
+2E ZakoRed
+2F ZakoBlue
+30 ZakoYellow
+31 ZakoGreen
+32 Mario
+
+Dark character info
+Original by Y.S.
+Attention: Only works with very few characters!
+
+Size information
+Original by Y.S.
+XXXXXXXX = Floating point number.. Examples:
+1.0 = 3F800000 (normal size)
+2.0 = 40000000 (double size)
+4.0 = 40800000 (quadro)
+0.5 = 3F000000 (half)
+0.25 = 3E800000 (quarter)
+There are also conversion apps for converting hexadecimal to floating point!
+
+General FP info
+Original by Y.S.
+XXXXXXXX = Floating point number (examples)
+1.0 = 3F800000
+2.0 = 40000000
+4.0 = 40800000
+0.5 = 3F000000
+0.25 = 3E800000
+There are also conversion apps for converting hexadecimal to floating point!
+
+Defense ratio info
+Original by Y.S.
+XXXXXXXX = Floating point number
+C0000000 --> Almost Invincible
+1.0 = 3F800000
+2.0 = 40000000
+4.0 = 40800000
+0.5 = 3F000000
+0.25 = 3E800000
+There are also conversion apps for converting hexadecimal to floating point!

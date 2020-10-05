@@ -1,0 +1,8 @@
+RE4E08
+Resident Evil Archives
+
+tazer always 99 and flash grenade allways 99 [12201]
+00359821 00000063
+
+fixed first save code [12201]
+00359864 00000000

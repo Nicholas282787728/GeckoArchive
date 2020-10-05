@@ -1,0 +1,15 @@
+RBUP08
+Resident Evil The Umbrella Chronicles
+
+Unlimited Health for Player1 and Player2 [Dr.Pepper]
+04BE58A0 00000000
+04BE58B4 00000000
+
+Unlimited Ammo and Grenades [Dr.Pepper]
+041BD084 60000000
+
+Rapid Fire (bypass gun reload) [Dr.Pepper]
+0406C618 60000000
+
+Unlimited Stars [Dr.Pepper]
+044C7AC4 0000FFFF

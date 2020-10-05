@@ -1,0 +1,184 @@
+JCBE
+Super Mario RPG
+
+Current Health Slot 1 [GMO]
+00864019 000000FF
+
+Max Health Slot 1 [GMO]
+0086401B 000000FF
+
+Current Health Slot 2 [GMO]
+00864099 000000FF
+
+Max Health Slot 2 [GMO]
+0086409B 000000FF
+
+Current Health Slot 3 [GMO]
+00864119 000000FF
+
+Max Health Slot 3 [GMO]
+0086411B 000000FF
+
+Unlimited Special Moves [GMO]
+00863F94 00000014
+
+Max Special Moves [GMO]
+00863F95 00000014
+
+Max Coins [GMO]
+02873E38 0000270F
+
+Max Frog Coins [GMO]
+00873E3C 000000FF
+
+Unlimited Flowers [GMO]
+00873E39 00000063
+
+Max Flowers [GMO]
+00873E3A 00000063
+
+Item Mod Slot 1 [GMO]
+00873E0A 000000??
+
+Item Mod Slot 2 [GMO]
+00873E0B 000000??
+
+Item Mod Slot 3 [GMO]
+00873E0C 000000??
+
+Item Mod Slot 4 [GMO]
+00873E0D 000000??
+
+Item Mod Slot 5 [GMO]
+00873E0E 000000??
+
+Item Mod Slot 6 [GMO]
+00873E0F 000000??
+
+Item Mod Slot 7 [GMO]
+00873E10 000000??
+
+Item Mod Slot 8 [GMO]
+00873E11 000000??
+
+Item Mod Slot 9 [GMO]
+00873E12 000000??
+
+Item Mod Slot 10 [GMO]
+00873E13 000000??
+
+Item Mod Slot 11 [GMO]
+00873E14 000000??
+
+Item Mod Slot 12 [GMO]
+00873E15 000000??
+
+Item Mod Slot 13 [GMO]
+00873E16 000000??
+
+Item Mod Slot 14 [GMO]
+00873E17 000000??
+
+Item Mod Slot 15 [GMO]
+00873E18 000000??
+
+Item Mod Slot 16 [GMO]
+00873E19 000000??
+
+Item Mod Slot 17 [GMO]
+00873E1A 000000??
+
+Item Mod Slot 18 [GMO]
+00873E1B 000000??
+
+Item Mod Slot 19 [GMO]
+00873E1C 000000??
+
+Item Mod Slot 20 [GMO]
+00873E1D 000000??
+
+Item Mod Slot 21 [GMO]
+00873E1E 000000??
+
+Item Mod Slot 22 [GMO]
+00873E1F 000000??
+
+Item Mod Slot 23 [GMO]
+00873E20 000000??
+
+Item Mod Slot 24 [GMO]
+00873E21 000000??
+
+Item Mod Slot 25 [GMO]
+00873E22 000000??
+
+Item Mod Slot 26 [GMO]
+00873E23 000000??
+
+Item Mod Slot 27 [GMO]
+00873E24 000000??
+
+Item Mod Slot 28 [GMO]
+00873E25 000000??
+
+Item Mod Slot 29 [GMO]
+00873E26 000000??
+50 Exp. Booster
+51 Attack Scarf
+52 Rare Scarf
+53 B'tub ring
+54 Antidote Pin
+55 Wake Up Pin
+56 Fearless Pin
+57 Trueform Pin
+58 Coin Trick
+59 Ghost Medal
+5A Jinx Belt
+5B Feather
+5C Troopa Pin
+5D Signal Ring
+5E Quartz Charm
+5F Spare
+60 Mushroom
+61 Mid Mushroom
+62 Max Mushroom
+63 Honey Syrup
+64 Maple Syrup
+65 Royal Syrup
+66 Pick Me Up
+67 Able Juice
+68 Bracer
+69 Energizer
+6A Yoshi-Ade
+6B Red Essence
+6C Kerokerocola
+6D Yoshi Cookie
+6E Pure Water
+6F Sleepy Bomb
+70 Bad Mushroom
+71 Fire Bomb
+72 Ice Bomb
+73 Flower Tab
+74 Flower Jar +3
+75 Flower Jar +5
+76 Yoshi Candy
+77 Froggie Drink
+78 Muku Cookie
+79 Elixir
+7A Megalixir
+7B ?See Ya
+7C Temple Key
+7D ?Goodie Bag
+7E ?Earlier Times
+7F Freshen Up
+80 Rare Frog Coin
+81 Wallet
+82 Cricket Pie
+83 Rock Candy
+84 Castle Key 1
+85 Debug Bomb
+86 Castle Key 2
+87 Bambino Bomb
+88 ?Sheep Attack
+89 Carbo Cookie
+8A Shiny Stone

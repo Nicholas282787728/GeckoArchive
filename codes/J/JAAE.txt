@@ -1,0 +1,55 @@
+JAAE
+Super Mario World
+
+Invincible (Mario-Luigi Only) [GMO]
+008B18BF 00000045
+
+Unlimited Star Power [GMO]
+008B18B8 000000FF
+
+Unlimited Lives (Stage) [GMO]
+028B133E 00000909
+
+Easy 1Up (10 Coins Per 1Up) [GMO]
+008B133B 00000009
+
+1 Yoshi Coin for 1Up [GMO]
+008B1848 00000005
+
+Select Box Power Modifier [GMO]
+008B11EA 000000??
+01 Mushroom
+02 Fire Flower
+03 Star Power
+04 Feather
+
+Mario-Luigi Power Modifier [GMO]
+008B0441 000000??
+00 Small
+01 Big
+02 Cape
+03 Fireball
+09 Shadow
+
+Hold Z Right & Press Up To Add More Time (Stage) [GMO]
+2818E69A 00000005
+028B1359 00000309
+E0000000 80008000
+
+Eat 1 Thing To Grow (Baby Yoshi) [GMO]
+008B199F 00000004
+
+Always Get To Play Bonus Game [GMO]
+008B1370 00000064
+Does not require you to get score at goal
+
+Unlimited Purple P Button Time [GMO]
+008B18D5 000000FF
+
+Unlimited Silver P Button Time [GMO]
+008B18D6 000000FF
+
+Always Floating Falls [GMO]
+008B18CD 000000FF
+
+01 Big

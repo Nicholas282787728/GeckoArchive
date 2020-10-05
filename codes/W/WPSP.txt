@@ -1,0 +1,28 @@
+WPSP
+Pokemon Rumble
+
+Ticket Modifier (Slot A) [goemon_guy]
+04912720 XXXX0Y00
+E0000000 80008000
+XXXX is the Pokemon value (1EC would change to 01EC and you would get a Shaymin)
+Y is the special form modifier (If you had a Shaymin, if you input 1 in here, you will get Land Forme, if you input 2, you will get Sky Forme, etc)
+
+Ticket Modifer (Slot B) [goemon_guy]
+04913A80 XXXX0Y00
+E0000000 80008000
+XXXX is the Pokemon value (1EC would change to 01EC and you would get a Shaymin)
+Y is the special form modifier (If you had a Shaymin, if you input 1 in here, you will get Land Forme, if you input 2, you will get Sky Forme, etc)
+
+Ticket Modifier (Slot C) [goemon_guy]
+04914DE0 XXXX0Y00
+E0000000 80008000
+XXXX is the Pokemon value (1EC would change to 01EC and you would get a Shaymin)
+Y is the special form modifier (If you had a Shaymin, if you input 1 in here, you will get Land Forme, if you input 2, you will get Sky Forme, etc)
+
+Infinite Wonder Keys [goemon_guy]
+040BE36C 60000000
+
+Infinite Pokedollars [Romaap]
+C20BA0FC 00000002
+3C00000F 60004240
+60000000 00000000

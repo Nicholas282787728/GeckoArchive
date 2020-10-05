@@ -1,0 +1,96 @@
+RHAE01
+Wii Play
+
+Laser Hockey
+
+Play Until XX Points [James0x57]
+042013A4 2C0000XX
+Default is 08
+
+Tanks!
+
+Mission Jump [James0x57]
+0424AEB0 38840001
+28371D28 00000800
+0424AEB0 388000XX
+E0000000 80008000
+Hold A right after clearing a mission to load Mission XX (00-63 hex).
+
+Infinite Lifes [James0x57]
+04254590 38800057
+
+Unlimited Tank Fire [James0x57]
+04245CD0 38000000
+
+Tank Fire Type and Ricochet Count [James0x57]
+04245D28 390000XX
+00-0F is normal, number of times it will ricochet
+10-1F is rocket; 10 is no ricochet, 1F is max
+20-2F is rocket, dark smoke; 20 is no ricochet, 2F is max
+30-3F is same as 20-2F; 30 is no ricochet, 3F is max
+
+Missiles Are Fast [James0x57]
+04245D24 C03D0018
+
+Tanks Are Fast [James0x57]
+04245FD0 C01C0018
+Just to note, normal tank speed is C01C0014
+
+Can lay 16 Mines [James0x57]
+04245BC4 38A00010
+
+Shooting Range
+
+Player 1 Score [James0x57]
+48000000 804796A8
+DE000000 90009380
+14000004 00000XXX
+E0000000 80008000
+999 (0x3E7) is max score.
+
+Player 2 Score [James0x57]
+48000000 804796A8
+DE000000 90009380
+14000008 00000XXX
+E0000000 80008000
+999 (0x3E7) is max score.
+
+Player 1 Total Hits [James0x57]
+48000000 804796A8
+DE000000 90009380
+14000014 XXXXXXXX
+E0000000 80008000
+
+Player 2 Total Hits [James0x57]
+48000000 804796A8
+DE000000 90009380
+14000018 XXXXXXXX
+E0000000 80008000
+
+Player 1 Current Hits In A Row [James0x57]
+48000000 804796A8
+DE000000 90009380
+14000024 00000XXX
+E0000000 80008000
+999 (0x3E7) is max.
+
+Player 2 Current Hits In A Row [James0x57]
+48000000 804796A8
+DE000000 90009380
+14000028 00000XXX
+E0000000 80008000
+999 (0x3E7) is max.
+
+Player 1 Highest Hits In A Row [James0x57]
+48000000 804796A8
+DE000000 90009380
+14000034 00000XXX
+E0000000 80008000
+999 (0x3E7) is max.
+
+Player 2 Highest Hits In A Row [James0x57]
+48000000 804796A8
+DE000000 90009380
+14000038 00000XXX
+E0000000 80008000
+999 (0x3E7) is max.

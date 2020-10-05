@@ -1,0 +1,55 @@
+R3RP8P
+Sonic & Sega All-Stars Racing
+
+Always have Dollars Modifier [-Ozelot-]
+04550C70 XXXXXXXX
+*XXXXXXXX=Number in Hex
+
+Itemx20 [Thomas83Lin]
+284E9EF8 EFFF1000
+04C030A0 00000014
+E0000000 80008000
+*Press - to Receive 20 of the Item your Holding*
+
+Always Have Item Modifier [Thomas83Lin]
+04C0309C XXXXXXXX
+*Single Player*
+*Replace x with Item*
+
+*Items*
+
+Red Rockets:
+11A9BC48
+
+Green Punching Gloves:
+5F724DA9
+
+Shield:
+953D2512
+
+All-Star:
+B678E022
+
+Horn:
+D8AE59CB
+
+Sonic Shoes:
+26E96DA5
+
+Remote Purple Bomb:
+9A67CB42
+
+Star:
+0053F395
+
+Bombs:
+3EBCDDED
+
+Orange Pawn:
+805C3C3B
+
+Normal Red Rocket:
+7711877D
+
+Normal Blue Bomb:
+EEC55D13

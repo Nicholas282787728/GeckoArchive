@@ -1,0 +1,106 @@
+RHAP01
+WII Play
+
+Shooting Range
+
+keep'em coming [Romaap]
+2037A528 00004000
+42000000 90000000
+05E40FBC 00000005
+E0000000 80008000
+Hold C to keep the stuff you need to shoot at coming
+
+Next level [Romaap]
+2037A528 00002000
+42000000 90000000
+05E40FBC 00000000
+05E40FC4 00000000
+E0000000 80008000
+Hold Z to go to the next level
+
+Canrain [Romaap]
+2037A528 00004004
+42000000 90000000
+05E40FBC 00000005
+05E40FC4 000000D0
+E0000000 80008000
+Wait till the 2nd or 3rd can is thrown then hold C to spawn a lot of Cans
+
+Tanks
+
+Tanks - Level Select [Panda]
+4A000000 91000000
+14D27CD0 000000XX
+E0000000 80008000
+Similar to James0x57 code but you will always play the level you choose.
+
+Charge!
+
+Super Speed and Brake [Romaap]
+2037A528 00000100
+42000000 90000000
+05B62BD4 40A00000
+E0000000 80008000
+2037A528 00000200
+42000000 90000000
+05B62BD4 00000000
+E0000000 80008000
+Press 2 go super fast and press 1 to brake (you can increase 40A00000, but this is the highest safe number, if you make it too high you will go through the fence)
+
+Unlimited Time [Romaap]
+42000000 90000000
+05B62CFC 45BB8000
+E0000000 80008000
+
+Laser Hockey
+
+Unlimited time [Romaap]
+2037A528 00000200
+42000000 90000000
+05B39870 0000EA25
+E0000000 80008000
+2037A528 00000300
+42000000 90000000
+05B39870 FFFFFFFF
+E0000000 80008000
+Press 1 to get 999secs and press 1+2 to end the game (set time to 0)
+
+Laser Hockey - CPU score [Panda]
+4A000000 91000000
+14BED7C0 000000XX
+E0000000 80008000
+
+Pool
+
+Pool - Shot count [Panda]
+4A000000 91000000
+14B412BC 000000XX
+E0000000 80008000
+
+Pool - Foul count [Panda]
+4A000000 91000000
+14B412C0 000000XX
+E0000000 80008000
+Set to 0 to avoid deductions at end of match
+
+All for 0ne player game.
+
+Tanks Infinite Lifes [memorris]
+4A000000 91000000
+14D5DAD3 00000063
+E0000000 80008000
+
+Destroyed 999 enemy tanks [memorris]
+4A000000 91000000
+14D5D9D7 000003E7
+E0000000 80008000
+
+Shooting Range p1 Score 999 [memorris]
+4A000000 91000000
+14E76CDF 000003E7
+E0000000 80008000
+
+Laser Hockey 99 points [memorris]
+4A000000 91000000
+14C23157 00000063
+E0000000 80008000

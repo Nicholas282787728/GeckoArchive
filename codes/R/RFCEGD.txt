@@ -1,0 +1,46 @@
+RFCEGD
+Final Fantasy The Crystal Bearer
+
+(Note: Sometimes after lenghty cutscenes the code stops working so you will need to save and restart and the code will work again.)
+
+OSSleepThread hook
+
+Player 1 Inf health [Thomas83Lin]
+48000000 80BBAF94
+DE000000 80008180
+140002AF 00000012
+140002B2 00000012
+E0000000 80008000
+*OSSleepThread Hook Only*
+
+Inf Gil [Thomas83Lin]
+C23A25F4 00000002
+3C60000F 6063423F
+4E800020 00000000
+
+All Materials [Thomas83Lin]
+C2179A18 00000002
+38600063 4E800020
+60000000 00000000
+
+All Accessories [Thomas83Lin]
+C2179B90 00000002
+380000FF 5463063E
+60000000 00000000
+
+99 of a Material [Thomas83Lin]
+C2179ACC 00000002
+3C000000 60000063
+981D0088 00000000
+C2179D2C 00000002
+3C000000 60000063
+981C0088 00000000
+*After you get\use some*
+
+Moon Jump Hold + [shark2003]
+20B85000 00000010
+DE000000 80008180
+04E1AC04 C2700000
+04E1AC7C C3000000
+E0000000 80008000
+Sometimes after lenghty cutscenes the code stops working so you will need to save and restart and the code will work again

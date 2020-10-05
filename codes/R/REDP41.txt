@@ -1,0 +1,15 @@
+REDP41
+Red Steel
+
+All Codes for Red Steel Require You To Use Rebooter
+
+Unlimited Ammo, Unlimited Health, Max Damage to enemies with any weapon [Dr.Pepper]
+200804A0 901F0000
+C208049C 00000007
+3E60C08F 6273F590
+82730000 7E73F850
+2C1303C0 41820020
+7E74F850 2C1303C0
+40820008 386000FF
+2C080002 41820008
+7C030050 00000000

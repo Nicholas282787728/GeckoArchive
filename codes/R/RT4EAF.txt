@@ -1,0 +1,1302 @@
+RT4EAF
+Tales of Symphonia Dawn of the New World
+
+"Cracks" Color Modifier [hawkeye2777]
+064E43B0 00000006
+00RR00GG 00BB0000
+RGB Values:
+00-FF: 0 to 255
+
+No "Cannot use Item Time" [hawkeye2777]
+C20B8320 00000005
+9421FFF0 91610008
+3D60BC83 616BAB9F
+917D0050 81610008
+38210010 C03D0050
+60000000 00000000
+This code nullifies the time limit on using items, so you can use several items at once.
+
+Elemental Grid Modifier [hawkeye2777]
+C20B24D8 00000002
+3CC00000 60C6000x
+90C30580 00000000
+C20B24F0 00000002
+3CC00000 60C6000x
+90C30584 00000000
+C20B2508 00000002
+3CC00000 60C6000x
+90C30588 00000000
+C20B2520 00000002
+3CC00000 60C6000x
+90C3058C 00000000
+C20B2538 00000002
+3CC00000 60C6000x
+90C30590 00000000
+Values for x:
+0 - Nothing
+1 - Fire
+2 - Water
+3 - Wind
+4 - Earth
+5 - Lightning
+6 - Ice
+7 - Light
+8 - Darkness
+The codes go in the (clockwise) order of the Grid, so the 1st x is the element farthest to the left and so on. If you make 4 or 5 of the x's be the same element, you will always have a chance to recruit a monster to your party. This does not modify the field element.
+
+All Recipes [hawkeye2777]
+024937B2 00007FFF
+Original by YCAT21 (JPN), ported by hawkeye2777.
+
+Load any save for instant game over [Aesteval]
+0049352B 00000005
+
+Load debug menu when loading any save [Aesteval]
+0049352B 00000001
+
+Infinite Gald [Aesteval]
+04481688 0098967F
+
+Have 10 of all items except for key items [Aesteval]
+00493855 0009000A
+00493860 0024000A
+00493888 0000000A
+0049388A 0027000A
+004938EA 0184000A
+00493A72 002F000A
+00493AA4 0009000A
+
+Emil Infinite HP [Aesteval]
+02481F70 0002270F
+
+Emil Infinite TP [Aesteval]
+02481F76 000203E7
+
+Emil 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02481F7C 000503E7
+
+Emil has all titles [Aesteval]
+04481F6E 0007FFFF
+
+Emil 9999 SP [Aesteval]
+02481FA0 0000270F
+
+Emil Extra Artes (may or may not be all artes) [Aesteval]
+04481FA4 010FFFFF
+
+Marta Infinite HP [Aesteval]
+02482058 0002270F
+
+Marta Infinite TP [Aesteval]
+0248205E 000203E7
+
+Marta 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02482064 000503E7
+
+Marta has all titles [Aesteval]
+04482054 00007FFF
+
+Marta 9999 SP [Aesteval]
+02482088 0000270F
+
+Richter Infinite HP [Aesteval]
+02482140 0002270F
+
+Richter Infinite TP [Aesteval]
+02482146 000203E7
+
+Richter 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+0248214C 000503E7
+
+Richter 9999 SP [Aesteval]
+02482170 0000270F
+
+Colette Infinite HP [Aesteval]
+02481918 0002270F
+
+Colette Infinite TP [Aesteval]
+0248191E 000203E7
+
+Colette 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02481924 000503E7
+
+Colette 9999 SP [Aesteval]
+02481948 0000270F
+
+Lloyd Infinite HP [Aesteval]
+02481830 0002270F
+
+Lloyd Infinite TP [Aesteval]
+02481836 000203E7
+
+Lloyd 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+0248183C 000503E7
+
+Lloyd 9999 SP [Aesteval]
+02481860 0000270F
+
+Genis Infinite HP [Aesteval]
+02481A00 0002270F
+
+Genis Infinite TP [Aesteval]
+02481A06 000203E7
+
+Genis 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02481A0C 000503E7
+
+Genis 9999 SP [Aesteval]
+02481A30 0000270F
+
+Raine Infinite HP [Aesteval]
+02481AE8 0002270F
+
+Raine Infinite TP [Aesteval]
+02481AEE 000203E7
+
+Raine 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02481AF4 000503E7
+
+Raine 9999 SP [Aesteval]
+02481B18 0000270F
+
+Sheena Infinite HP [Aesteval]
+02481BD0 0002270F
+
+Sheena Infinite TP [Aesteval]
+02481BD6 000203E7
+
+Sheena 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02481BDC 000503E7
+
+Sheena 9999 SP [Aesteval]
+02481C00 0000270F
+
+Zelos Infinite HP [Aesteval]
+02481CB8 0002270F
+
+Zelos Infinite TP [Aesteval]
+02481CBE 000203E7
+
+Zelos 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02481CC4 000503E7
+
+Zelos 9999 SP [Aesteval]
+02481CE8 0000270F
+
+Presea Infinite HP [Aesteval]
+02481DA0 0002270F
+
+Presea Infinite TP [Aesteval]
+02481DA6 000203E7
+
+Presea 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02481DAC 000503E7
+
+Presea 9999 SP [Aesteval]
+02481DD0 0000270F
+
+Regal Infinite HP [Aesteval]
+02481E88 0002270F
+
+Regal Infinite TP [Aesteval]
+02481E8E 000203E7
+
+Regal 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02481E94 000503E7
+
+Regal 9999 SP [Aesteval]
+02481EB8 0000270F
+
+Monster 1 Infinite HP [Aesteval]
+02482228 0002270F
+
+Monster 1 Infinite TP [Aesteval]
+0248222E 000203E7
+
+Monster 1 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02482234 000503E7
+
+Monster 1 9999 SP [Aesteval]
+02482258 0000270F
+
+Monster 2 Infinite HP [Aesteval]
+02482310 0002270F
+
+Monster 2 Infinite TP [Aesteval]
+02482316 000203E7
+
+Monster 2 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+0248231C 000503E7
+
+Monster 2 9999 SP [Aesteval]
+02482340 0000270F
+
+Monster 3 Infinite HP [Aesteval]
+024823F8 0002270F
+
+Monster 3 Infinite TP [Aesteval]
+024823FE 000203E7
+
+Monster 3 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+02482404 000503E7
+
+Monster 3 9999 SP [Aesteval]
+02482428 0000270F
+
+Monster 4 Infinite HP [Aesteval]
+024824E0 0002270F
+
+Monster 4 Infinite TP [Aesteval]
+024824E6 000203E7
+
+Monster 4 999 P.Atk, P.Def, A.Atk, A.Def, Dex, and Luck [Aesteval]
+024824EC 000503E7
+
+Monster 4 9999 SP [Aesteval]
+02482510 0000270F
+<!--!include:Monster Mod Note-->
+
+Monster Mod Note
+Add E8 to memory addresses for each monster after 4 to modify the next monster (5 - ???)
+
+Equipment Modifier
+
+Lloyd Weapon [Aesteval]
+02481854 0000ZZZZ
+
+Lloyd Body [Aesteval]
+02481856 0000ZZZZ
+
+Lloyd Head [Aesteval]
+02481858 0000ZZZZ
+
+Lloyd Arm [Aesteval]
+0248185A 0000ZZZZ
+
+Lloyd Other 1 [Aesteval]
+0248185C 0000ZZZZ
+
+Lloyd Other 2 [Aesteval]
+0248185E 0000ZZZZ
+
+Colette Weapon [Aesteval]
+0248193C 0000ZZZZ
+
+Colette Body [Aesteval]
+0248193E 0000ZZZZ
+
+Colette Head [Aesteval]
+02481940 0000ZZZZ
+
+Colette Arm [Aesteval]
+02481942 0000ZZZZ
+
+Colette Other 1 [Aesteval]
+02481944 0000ZZZZ
+
+Colette Other 2 [Aesteval]
+02481946 0000ZZZZ
+
+Genis Weapon [Aesteval]
+02481A24 0000ZZZZ
+
+Genis Body [Aesteval]
+02481A26 0000ZZZZ
+
+Genis Head [Aesteval]
+02481A28 0000ZZZZ
+
+Genis Arm [Aesteval]
+02481A2A 0000ZZZZ
+
+Genis Other 1 [Aesteval]
+02481A2C 0000ZZZZ
+
+Genis Other 2 [Aesteval]
+02481A2E 0000ZZZZ
+
+Raine Weapon [Aesteval]
+02481B0C 0000ZZZZ
+
+Raine Body [Aesteval]
+02481B0E 0000ZZZZ
+
+Raine Head [Aesteval]
+02481B10 0000ZZZZ
+
+Raine Arm [Aesteval]
+02481B12 0000ZZZZ
+
+Raine Other 1 [Aesteval]
+02481B14 0000ZZZZ
+
+Raine Other 2 [Aesteval]
+02481B16 0000ZZZZ
+
+Sheena Weapon [Aesteval]
+02481BF4 0000ZZZZ
+
+Sheena Body [Aesteval]
+02481BF6 0000ZZZZ
+
+Sheena Head [Aesteval]
+02481BF8 0000ZZZZ
+
+Sheena Arm [Aesteval]
+02481BFA 0000ZZZZ
+
+Sheena Other 1 [Aesteval]
+02481BFC 0000ZZZZ
+
+Sheena Other 2 [Aesteval]
+02481BFE 0000ZZZZ
+
+Zelos Weapon [Aesteval]
+02481CDC 0000ZZZZ
+
+Zelos Body [Aesteval]
+02481CDE 0000ZZZZ
+
+Zelos Head [Aesteval]
+02481CE0 0000ZZZZ
+
+Zelos Arm [Aesteval]
+02481CE2 0000ZZZZ
+
+Zelos Other 1 [Aesteval]
+02481CE4 0000ZZZZ
+
+Zelos Other 2 [Aesteval]
+02481CE6 0000ZZZZ
+
+Presea Weapon [Aesteval]
+02481DC4 0000ZZZZ
+
+Presea Body [Aesteval]
+02481DC6 0000ZZZZ
+
+Presea Head [Aesteval]
+02481DC8 0000ZZZZ
+
+Presea Arm [Aesteval]
+02481DCA 0000ZZZZ
+
+Presea Other 1 [Aesteval]
+02481DCC 0000ZZZZ
+
+Presea Other 2 [Aesteval]
+02481DCE 0000ZZZZ
+
+Regal Weapon [Aesteval]
+02481EAC 0000ZZZZ
+
+Regal Body [Aesteval]
+02481EAE 0000ZZZZ
+
+Regal Head [Aesteval]
+02481EB0 0000ZZZZ
+
+Regal Arm [Aesteval]
+02481EB2 0000ZZZZ
+
+Regal Other 1 [Aesteval]
+02481EB4 0000ZZZZ
+
+Regal Other 2 [Aesteval]
+02481EB6 0000ZZZZ
+
+Emil Weapon [Aesteval]
+02481F94 0000ZZZZ
+
+Emil Body [Aesteval]
+02481F96 0000ZZZZ
+
+Emil Head [Aesteval]
+02481F98 0000ZZZZ
+
+Emil Arm [Aesteval]
+02481F9A 0000ZZZZ
+
+Emil Other 1 [Aesteval]
+02481F9C 0000ZZZZ
+
+Emil Other 2 [Aesteval]
+02481F9E 0000ZZZZ
+
+Marta Weapon [Aesteval]
+0248207C 0000ZZZZ
+
+Marta Body [Aesteval]
+0248207E 0000ZZZZ
+
+Marta Head [Aesteval]
+02482080 0000ZZZZ
+
+Marta Arm [Aesteval]
+02482082 0000ZZZZ
+
+Marta Other 1 [Aesteval]
+02482084 0000ZZZZ
+
+Marta Other 2 [Aesteval]
+02482086 0000ZZZZ
+
+Richter Weapon [Aesteval]
+02482164 0000ZZZZ
+
+Richter Body [Aesteval]
+02482166 0000ZZZZ
+
+Richter Head [Aesteval]
+02482168 0000ZZZZ
+
+Richter Arm [Aesteval]
+0248216A 0000ZZZZ
+
+Richter Other 1 [Aesteval]
+0248216C 0000ZZZZ
+
+Richter Other 2 [Aesteval]
+0248216E 0000ZZZZ
+
+Monster 1 Weapon [Aesteval]
+0248224C 0000ZZZZ
+
+Monster 1 Body [Aesteval]
+0248224E 0000ZZZZ
+
+Monster 1 Head [Aesteval]
+02482250 0000ZZZZ
+
+Monster 1 Arm [Aesteval]
+02482252 0000ZZZZ
+
+Monster 1 Other 1 [Aesteval]
+02482254 0000ZZZZ
+
+Monster 1 Other 2 [Aesteval]
+02482256 0000ZZZZ
+
+Monster 2 Weapon [Aesteval]
+02482334 0000ZZZZ
+
+Monster 2 Body [Aesteval]
+02482336 0000ZZZZ
+
+Monster 2 Head [Aesteval]
+02482338 0000ZZZZ
+
+Monster 2 Arm [Aesteval]
+0248233A 0000ZZZZ
+
+Monster 2 Other 1 [Aesteval]
+0248233C 0000ZZZZ
+
+Monster 2 Other 2 [Aesteval]
+0248233E 0000ZZZZ
+
+Monster 3 Weapon [Aesteval]
+0248241C 0000ZZZZ
+
+Monster 3 Body [Aesteval]
+0248241E 0000ZZZZ
+
+Monster 3 Head [Aesteval]
+02482420 0000ZZZZ
+
+Monster 3 Arm [Aesteval]
+02482422 0000ZZZZ
+
+Monster 3 Other 1 [Aesteval]
+02482424 0000ZZZZ
+
+Monster 3 Other 2 [Aesteval]
+02482426 0000ZZZZ
+
+Monster 4 Weapon [Aesteval]
+02482504 0000ZZZZ
+
+Monster 4 Body [Aesteval]
+02482506 0000ZZZZ
+
+Monster 4 Head [Aesteval]
+02482508 0000ZZZZ
+
+Monster 4 Arm [Aesteval]
+0248250A 0000ZZZZ
+
+Monster 4 Other 1 [Aesteval]
+0248250C 0000ZZZZ
+
+Monster 4 Other 2 [Aesteval]
+0248250E 0000ZZZZ
+<!--!include:Monster Mod Note-->
+
+Monster Mod Note
+Add E8 to memory addresses for each monster after 4 to modify the next monster (5 - ???)
+
+Hex values for Equipment (Replace ZZZZ with these:)
+0000	Empty
+0001	Apple Gel
+0002	Orange Gel
+0003	Melange Gel
+0004	Lemon Gel
+0005	Pineapple Gel
+0006	Miracle Gel
+0007	Specific
+0008	Treat
+0009	Special Gel
+000A	Lottery Gel
+000B	Jelly Gel (Dummy)
+000C	Nectar Bottle
+000D	Cure Bottle
+000E	Dark Bottle
+000F	Dinei Bottle
+0010	Holy Bottle
+0011	Life Bottle
+0012	Syrup Bottle
+0013	Panacea Bottle
+0014	Paralysis Bottle
+0015	Poison Bottle
+0016	Seal Bottle
+0017	Shock Bottle
+0018	Stone Bottle
+0019	Virus Bottle
+001A	Weak Bottle
+001B	Wing Bottle
+001C	Sage
+001D	Savory
+001E	Lavender
+001F	Verbena
+0020	Chamomile
+0021	Basil
+0022	Saffron
+0023	Blue Sage
+0024	Blue Savory
+0025	Blue Lavender
+0026	Blue Verbena
+0027	Blue Chamomile
+0028	Blue Basil
+0029	Blue saffron
+002A	Red Sage
+002B	Red Savory
+002C	Red Lavender
+002D	Red Verbena
+002E	Red Chamomile
+002F	Red Basil
+0030	Red Saffron
+0031	Rosemary (Dummy)
+0032	Blue Rosemary (Dummy)
+0033	Red Rosemary (Dummy)
+0034	All-Divide
+0035	Hourglass (Dummy)
+0036	Grey Manuscript
+0037	White Manuscript
+0038	Yellow Manuscript
+0039	Peach Manuscript
+003A	Scarlet Manuscript
+003B	Azure Manuscript
+003C	Purple Manuscript
+003D	Silver Manuscript
+003E	Gold Manuscript
+003F	Rainbow Manuscript
+0040	Message: Near Death
+0041	Message: Fatal Blow
+0042	Message: Strength
+0043	Message: Mental
+0044	Message: Warlord
+0045	Message: Sage
+0046	Message: Artist
+0047	Message: Stronghold
+0048	Message: Fortress
+0049	Message: Hawkeye
+004A	Undine's Whisper
+004B	Volt's Whim
+004C	Undine's Affection
+004D	Efreet's Help
+004E	Undine's Charity
+004F	Gnome's Dust
+0050	Shadow's Language
+0051	Aska's Embrace
+0052	Sylph's Circle
+0053	Gnome's Flip Out
+0054	Efreet's Hammer
+0055	Gnome's Dance
+0056	Undine's Tears
+0057	Sylph's Mischief
+0058	Celsius Sigh
+0059	Volt's Melancholy
+005A	Shadow's Walk
+005B	Gnome's Frustration
+005C	Luna's Punishment
+005D	Efreet's Anger
+005E	Tenebrae's Core
+005F	Tenebrae
+0060	Aqua's Core
+0061	Aqua
+0062	Glacies' Core
+0063	Glacies
+0064	Tonitrus' Core (Dummy)
+0065	Tonitrus
+0066	Lumen's Core (Dummy)
+0067	Lumen
+0068	Solum's Core (Dummy)
+0069	Solum
+006A	Ventus' Core (Dummy)
+006B	Ventus
+006C	Ignis' Core (Dummy)
+006D	Ignis
+006E	Eau de Seduction
+006F	Lloyd's Mask 1
+0070	Lloyd's Mask 2
+0071	Lloyd's Mask 3
+0072	Lloyd's Card 1
+0073	Lloyd's Card 2
+0074	Seafood Gel
+0075	Research Notes 1
+0076	Research Notes 2
+0077	Presea's Iron Maiden (Dummy)
+0078	Marta's Wood (Dummy)
+0079	High-Speed Transport
+007A	Rheaird
+007B	Sorcerer's Ring
+007C	Baby Winged Dragon
+007D	Stone Dais Key
+007E	Maiden's Cane
+007F	Bartek
+0080	Rosemary
+0081	Jellyfish
+0082	Letter of Passage
+0083	Card Key 1
+0084	Card Key
+0085	Elevator Key
+0086	Card Key 2
+0087	Card Key 3
+0088	Pass Card
+0089	Pass Card A
+008A	Pass Card B
+008B	Pass Card C
+008C	Pass Card D
+008D	Training Manual
+008E	Journal
+008F	Balacruf Symbol
+0090	Balacruf Tombstone
+0091	Angelatops
+0092	Pendant
+0093	Special Bait
+0094	Water Spider
+0095	Lloyd's Mask 4
+0096	Pasta
+0097	Rice
+0098	Flour
+0099	Bread
+009A	Roll
+009B	Barley Rice
+009C	Juicy Meat
+009D	Beef
+009E	Chicken
+009F	Pork
+00A0	Beef Strips
+00A1	Konjac
+00A2	Tofu
+00A3	Snapper
+00A4	Squid
+00A5	Cod
+00A6	Tuna
+00A7	Shellfish
+00A8	Octopus
+00A9	Shrimp
+00AA	Bell Pepper
+00AB	Lettuce
+00AC	Cucumber
+00AD	Onion
+00AE	Radish
+00AF	Tomato
+00B0	Carrot
+00B1	Mushroom
+00B2	Cabbage
+00B3	Potato
+00B4	Amango
+00B5	Kirima
+00B6	Melon
+00B7	Pineapple
+00B8	Strawberry
+00B9	Grapes
+00BA	Peach
+00BB	Pear
+00BC	Banana
+00BD	Apple
+00BE	Lemon
+00BF	Purple Satay
+00C0	Black Satay
+00C1	White Satay
+00C2	Red Satay
+00C3	Cheese
+00C4	Miso
+00C5	Kelp
+00C6	Seaweed
+00C7	Egg
+00C8	Milk
+00C9	Plant Vine
+00CA	Thick Leaf
+00CB	Flower Petals
+00CC	Leaf Mold
+00CD	Tree Sap
+00CE	Lumber
+00CF	Treant Bulb
+00D0	Charcoal
+00D1	Beautiful Flower
+00D2	Moss
+00D3	Slime Mold
+00D4	Fragrant Wood
+00D5	Small Fang
+00D6	Fluffy Fur
+00D7	Sharp Claw
+00D8	Slough
+00D9	Mane
+00DA	Lizard Tail
+00DB	Wolf Fur
+00DC	Rabbit Tail
+00DD	Bear Skin
+00DE	Lizard Skin
+00DF	Ogre's Blood
+00E0	Evil Eye
+00E1	Horn
+00E2	Insect's Wing
+00E3	Cocoon
+00E4	Stinger
+00E5	Crawler's Silk
+00E6	Elastic Leather
+00E7	Twisted Horn
+00E8	Insect Fluid
+00E9	Deadly Poison
+00EA	Spider's Net
+00EB	Ore
+00EC	Large Scythe
+00ED	Bird Feather
+00EE	Beak
+00EF	Spoiled Meat
+00F0	Roc's Feather
+00F1	Chicken Bones
+00F2	Bat Wing
+00F3	Rough Leather
+00F4	Phoenix's Wing
+00F5	Hawk's Eye
+00F6	Harpy's Feather
+00F7	Bat Fang
+00F8	Bird Egg
+00F9	Turtle Shell
+00FA	Ink
+00FB	Fish Scale
+00FC	Seashell
+00FD	Frog Eggs
+00FE	Spongy Skin
+00FF	Quality Shell
+0100	Jar Fragment
+0101	Quality Scale
+0102	Coral
+0103	Large Shell
+0104	Frog Oil
+0105	Yellow Fluid
+0106	Black Fluid
+0107	Red Fluid
+0108	Blue Fluid
+0109	Pebble
+010A	Roper Feeler
+010B	Slime Oil
+010C	Pure Silver
+010D	Glittering Sand
+010E	Monster Extract
+010F	Saliva
+0110	Philosopher's Stone
+0111	Imp's Wing
+0112	Demon's Wing
+0113	Imp's Tail
+0114	Lamia's Tail
+0115	Demon's Horn
+0116	Lamia's Hair Tie
+0117	Knife
+0118	Hunting Horn
+0119	Pointed Horn
+011A	Devil's Blood
+011B	Lamia's Bracelet
+011C	Musk
+011D	Wyvern's Scale
+011E	Wyvern's Wing
+011F	Wyvern's Skin
+0120	Dragon's Scale
+0121	Dragon's Claw
+0122	Dragon's Fang
+0123	Large Scale
+0124	Dragon's Bone
+0125	Dragon's Blood
+0126	Dragon's Anger
+0127	Dragon's Skull
+0128	Dragon's Horn
+0129	Scattered Bones
+012A	Femur
+012B	Old Coin
+012C	Broken Armor
+012D	Bloody Cloth
+012E	Skull
+012F	Strong Bone
+0130	Ashes
+0131	Broken Sword
+0132	Ghost's Cloth
+0133	Anima
+0134	Animus
+0135	Stone Block
+0136	Golem Fragment
+0137	Weapon Fragment
+0138	Mimic Fragment
+0139	Statue Fragment
+013A	Elemental Fragment
+013B	Mythril
+013C	Steel Ball
+013D	Damascus
+013E	Orichalcum
+013F	Electrum
+0140	Quality Stone
+0141	Bronze Sword
+0142	Iron Sword
+0143	Small Sword
+0144	Long Sword
+0145	Broadsword
+0146	Hunting Sword
+0147	Great Sword
+0148	Gold Sword
+0149	Black Sword
+014A	Bastard Sword
+014B	Knight's Sword
+014C	Mythril Sword
+014D	Riot Spike
+014E	Echo Tracer
+014F	Vile Requiem
+0150	Soul Blast
+0151	Mind Slicer
+0152	Mesmeric Trance
+0153	Demonic Torment
+0154	Nether Traitor
+0155	Bronze Spinner
+0156	Iron Spinner
+0157	Ivory Spinner
+0158	Gothic Spinner
+0159	Silver Spinner
+015A	Coral Spinner
+015B	Demonic Spinner
+015C	Gold Spinner
+015D	Black Spinner
+015E	Dragon Spinner
+015F	Unicorn Spinner
+0160	Mythril Spinner
+0161	Millstone
+0162	War Chariot
+0163	Retribution
+0164	Clock Spinner
+0165	Dark Sphere
+0166	Energy Arc
+0167	Trick Bind
+0168	Kismet
+0169	Rapier
+016A	Gagnrad
+016B	Chakram
+016C	Angel's Halo
+016D	Nova
+016E	One World
+016F	Rod
+0170	Crystal Rod
+0171	Spell Card
+0172	Divine Judgement
+0173	Silver Sword
+0174	Last Fencer
+0175	Francesca
+0176	Gaia Cleaver
+0177	Leather Greaves
+0178	Dynast
+0179	Sol and Mani
+017A	Leather Plate
+017B	Iron Plate
+017C	Chain Plate
+017D	Scale Plate
+017E	Silver Plate
+017F	Half Plate
+0180	Battle Plate
+0181	Light Plate
+0182	Black Plate
+0183	Royal Plate
+0184	Rare Plate
+0185	Mythril Plate
+0186	Blood Lust
+0187	Incinerator
+0188	Lawful Light
+0189	Lion Heart
+018A	Pain Killer
+018B	Power Drive
+018C	Solitude
+018D	Strange Blue
+018E	Cloak
+018F	Feather Cloak
+0190	Silk Cloak
+0191	White Cloak
+0192	Silver Cloak
+0193	Mage Cloak
+0194	Mystic Cloak
+0195	Holy Cloak
+0196	Witch Cloak
+0197	Mirage Cloak
+0198	Elder Cloak
+0199	Mythril Cloak
+019A	Angel Dust
+019B	Anthem
+019C	Fairy Tale
+019D	Moon Luminance
+019E	Phantom Lord
+019F	Prime Evil
+01A0	Rain Maker
+01A1	Windmill
+01A2	Bandanna
+01A3	Leather Bandanna
+01A4	Custom Bandanna
+01A5	Sturdy Bandanna
+01A6	Plate Bandanna
+01A7	Quill Bandanna
+01A8	Studded Bandanna
+01A9	Martial Bandanna
+01AA	Light Bandanna
+01AB	Noble Bandanna
+01AC	Thick Bandanna
+01AD	Dusk Bandanna
+01AE	Fencer's Bandanna
+01AF	Warrior's Bandanna
+01B0	Rogue's Bandanna
+01B1	Red Ribbon
+01B2	Blue Ribbon
+01B3	Orange Ribbon
+01B4	Green Ribbon
+01B5	White Ribbon
+01B6	Black Ribbon
+01B7	Purple Ribbon
+01B8	Yellow Ribbon
+01B9	Plaid Ribbon
+01BA	Striped Ribbon
+01BB	Pretty Ribbon
+01BC	Elemental Ribbon
+01BD	Puppet's Ribbon
+01BE	Wizard's Ribbon
+01BF	Healer's Ribbon
+01C0	Leather Gauntlets
+01C1	Iron Gauntlets
+01C2	Chain Gauntlets
+01C3	Scale Gauntlets
+01C4	Silver Gauntlets
+01C5	Half Gauntlets
+01C6	Battle Gauntlets
+01C7	Light Gauntlets
+01C8	Black Gauntlets
+01C9	Royal Gauntlets
+01CA	Rare Gauntlets
+01CB	Mythril Gauntlets
+01CC	Dark Passage
+01CD	Soul Forge
+01CE	Star Breaker
+01CF	Mittens
+01D0	Feather Mittens
+01D1	Silk Mittens
+01D2	White Mittens
+01D3	Silver Mittens
+01D4	Mage Mittens
+01D5	Mystic Mittens
+01D6	Holy Mittens
+01D7	Witch Mittens
+01D8	Mirage Mittens
+01D9	Elder Mittens
+01DA	Mythril Mittens
+01DB	Crossroad
+01DC	Fortune Teller
+01DD	Master Mind
+01DE	Splint Mail
+01DF	Mumbane
+01E0	Golden Armor
+01E1	Iron Guard
+01E2	Solar Guard
+01E3	Prism Protector
+01E4	Magic Cloak
+01E5	Druid Cloak
+01E6	Queen Cloak
+01E7	Amber Robe
+01E8	Carnelian Robe
+01E9	Cerulean Robe
+01EA	Viridian Robe
+01EB	Duel Helm
+01EC	Golden Helm
+01ED	Rare Circlet
+01EE	Elemental Crest
+01EF	Aifread's Hat
+01F0	Ancient Ribbon
+01F1	Magical Ribbon
+01F2	Rare Bracelet
+01F3	Angel Bracelet
+01F4	Kaiser Bracelet
+01F5	Draupnir
+01F6	Snow Mittens
+01F7	Queen Mittens
+01F8	Sea Fire
+01F9	Dual Blaze
+01FA	Flambeau
+01FB	Virus Charm
+01FC	Stone Charm
+01FD	Poison Charm
+01FE	Seal Charm
+01FF	Paralysis Charm
+0200	Shock Charm
+0201	Weak Charm
+0202	Sleep Charm
+0203	Virus Periapt
+0204	Stone Periapt
+0205	Poison Periapt
+0206	Seal Periapt
+0207	Paralysis Periapt
+0208	Shock Periapt
+0209	Weak Periapt
+020A	Sleep Periapt
+020B	Amulet
+020C	Talisman
+020D	Blue Amulet
+020E	Blue Talisman
+020F	Garnet Ring
+0210	Ruby Ring
+0211	Aquamarine Ring
+0212	Opal Ring
+0213	Sapphire Ring
+0214	Sardonyx Ring
+0215	Topaz Ring
+0216	Amethyst Ring
+0217	Electrum Ring
+0218	Platinum Ring
+0219	Mythril Ring
+021A	Orichalcum Ring
+021B	Ring 13 (Dummy)
+021C	Ring 14 (Dummy)
+021D	Ring 15 (Dummy)
+021E	Heal Mark
+021F	Holy Mark
+0220	Mystic Mark
+0221	Spirit Mark
+0222	Mana Mark
+0223	Heal Symbol
+0224	Holy Symbol
+0225	Mystic Symbol
+0226	Spirit Symbol
+0227	Mana Symbol
+0228	Fire Cape
+0229	Earth Cape
+022A	Water Cape
+022B	Wind Cape
+022C	Ice Cape
+022D	Thunder Cape
+022E	Light Cape
+022F	Dark Cape
+0230	Cape
+0231	Leather Cape
+0232	Thief's Cape
+0233	Elven Cape
+0234	Surtr's Cape
+0235	Freyja's Cape
+0236	Aegir's Cape
+0237	Forseti's Cape
+0238	Ymir's Cape
+0239	Thor's Cape
+023A	Baldr's Cape
+023B	Woden's Cape
+023C	Boots
+023D	Leather Boots
+023E	Long Boots
+023F	Heavy Boots
+0240	Sturdy Boots
+0241	Feather Boots
+0242	Combat Boots
+0243	Studded Boots
+0244	Seven League Boots
+0245	Persian Boots
+0246	Garnet
+0247	Ruby
+0248	Aquamarine
+0249	Opal
+024A	Sapphire
+024B	Sardonyx
+024C	Topaz
+024D	Amethyst
+024E	Jewel 9 (Dummy)
+024F	Jewel 10 (Dummy)
+0250	Ground Breaker
+0251	Feral Shadow
+0252	Edge Walker
+0253	Arcanum Wings
+0254	Innocent Blood
+0255	Damnation
+0256	Lord of Chaos
+0257	Bright Flame
+0258	Heart Warden
+0259	Jihad
+
+Party Modification
+
+Spot 1 [Aesteval]
+004931E7 0000000X
+044931E8 AAAABBBB
+
+Spot 2 [Aesteval]
+004931EF 0000000X
+044931F0 AAAABBBB
+
+Spot 3 [Aesteval]
+004931F7 0000000X
+044931F8 AAAABBBB
+
+Spot 4 [Aesteval]
+004931FF 0000000X
+04493200 AAAABBBB
+
+Spot 5 [Aesteval]
+00493207 0000000X
+04493208 AAAABBBB
+
+Spot 6 [Aesteval]
+0049320F 0000000X
+04493210 AAAABBBB
+
+Spot 7 [Aesteval]
+00493217 0000000X
+04493218 AAAABBBB
+
+Spot 8 [Aesteval]
+0049321F 0000000X
+04493220 AAAABBBB
+
+Spot 9 [Aesteval]
+00493227 0000000X
+04493228 AAAABBBB
+
+Spot 10 [Aesteval]
+0049322F 0000000X
+04493230 AAAABBBB
+<!--!include:Party Mod Note-->
+
+Party Mod Note
+Based off of YCAT21's Party Mod code on the Japanese version. See Japanese version for valid data for AAAABBBB.
+X = 0/1 Character/Monster - designating a monster as a character can crash the game in certain circumstances
+AAAA = Some character data
+BBBB = Portrait and some other character data
+AAAABBBB can mix data from two separate characters. IE, you could have Richter's data with Presea's portrait and title in the menu.
+May not be able to access all party slots if there isn't already a character present in it.
+
+Rename Character Codes
+
+Rename Emil [Aesteval]
+02481F4E 0000AABB
+04481F50 CCDDEEFF
+04481F54 GGHHIIJJ
+04481F58 KKLLMMNN
+04481F5C OOPPQQRR
+
+Rename Marta [Aesteval]
+02482036 0000AABB
+04482038 CCDDEEFF
+0448203C GGHHIIJJ
+04482040 KKLLMMNN
+04482044 OOPPQQRR
+
+Rename Richter [Aesteval]
+0248211E 0000AABB
+04482120 CCDDEEFF
+04482124 GGHHIIJJ
+04482128 KKLLMMNN
+0448212C OOPPQQRR
+
+Rename Colette [Aesteval]
+024818F6 0000AABB
+044818F8 CCDDEEFF
+044818FC GGHHIIJJ
+04481900 KKLLMMNN
+04481904 OOPPQQRR
+
+Rename Lloyd [Aesteval]
+0248180E 0000AABB
+04481810 CCDDEEFF
+04481814 GGHHIIJJ
+04481818 KKLLMMNN
+0448181C OOPPQQRR
+
+Rename Genis [Aesteval]
+024819DE 0000AABB
+044819E0 CCDDEEFF
+044819E4 GGHHIIJJ
+044819E8 KKLLMMNN
+044819EC OOPPQQRR
+
+Rename Raine [Aesteval]
+02481AC6 0000AABB
+04481AC8 CCDDEEFF
+04481ACC GGHHIIJJ
+04481AD0 KKLLMMNN
+04481AD4 OOPPQQRR
+
+Rename Sheena [Aesteval]
+02481BAE 0000AABB
+04481BB0 CCDDEEFF
+04481BB4 GGHHIIJJ
+04481BB8 KKLLMMNN
+04481BBC OOPPQQRR
+
+Rename Zelos [Aesteval]
+02481C96 0000AABB
+04481C98 CCDDEEFF
+04481C9C GGHHIIJJ
+04481CA0 KKLLMMNN
+04481CA4 OOPPQQRR
+
+Rename Presea [Aesteval]
+02481D7E 0000AABB
+04481D80 CCDDEEFF
+04481D84 GGHHIIJJ
+04481D88 KKLLMMNN
+04481D8C OOPPQQRR
+
+Rename Regal [Aesteval]
+02481E66 0000AABB
+04481E68 CCDDEEFF
+04481E6C GGHHIIJJ
+04481E70 KKLLMMNN
+04481E74 OOPPQQRR
+
+Rename Monster 1 [Aesteval]
+02482206 0000AABB
+04482208 CCDDEEFF
+0448220C GGHHIIJJ
+04482210 KKLLMMNN
+04482214 OOPPQQRR
+
+Rename Monster 2 [Aesteval]
+024822EE 0000AABB
+044822F0 CCDDEEFF
+044822F4 GGHHIIJJ
+044822F8 KKLLMMNN
+044822FC OOPPQQRR
+
+Rename Monster 3 [Aesteval]
+024823D6 0000AABB
+044823D8 CCDDEEFF
+044823DC GGHHIIJJ
+044823E0 KKLLMMNN
+044823E4 OOPPQQRR
+
+Rename Monster 4 [Aesteval]
+024824BE 0000AABB
+044824C0 CCDDEEFF
+044824C4 GGHHIIJJ
+044824C8 KKLLMMNN
+044824CC OOPPQQRR
+<!--!include:Name Mod Note-->
+
+Name Mod Note
+For AA, BB, etc.: Convert letters into numeric ascii values and then convert the numeric ascii values into hex; or type name into a basic barebones text file, open the text file in a hex editor, and copy the hex values. Leave values as 00 for null/blank/empty positions.

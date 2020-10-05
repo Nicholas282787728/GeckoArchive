@@ -1,0 +1,25 @@
+RWLP01
+Wario land- The shake dimension
+
+Invincible Wario [Blaster99]
+0403806C 60000000
+E0000000 80008000
+
+16 Million Gold Global [Blaster99]
+04DBE510 00FFFFFF
+04A9A974 00FFFFFF
+E0000000 80008000
+
+Infinite Escape Time [Blaster99]
+040E6E90 60000000
+040E6EA4 60000000
+040E6ECC 60000000
+E0000000 80008000
+
+Infinite Shaker [Blaster99]
+040344A4 60000000
+E0000000 80008000
+
+Infinite coins- German(original by blaster99) [jassim]
+04DB1498 0098967F
+<!--!include:this will only work if language is German-->

@@ -1,0 +1,228 @@
+RSPP01
+Wii Sports
+
+Bowling
+
+Bowling Training - Power Throws Lane Width [Panda]
+024EC1BC 0000XXXX
+Level 1 width is 4152 (Code inspired by lemmayoshi)
+
+Golf
+
+Golf Training - All Targets 100 points [Panda]
+043677CC 00000064
+043677D0 00000064
+043677D4 00000064
+043677D8 00000064
+043677DC 00000064
+043677E0 00000064
+043677E8 00000064
+043677EC 00000064
+043677F0 00000064
+043677F8 00000064
+You only get points if you hit a target. The values of '64' can be changed.
+
+Golf Training - Putting Shot Count [Panda]
+4A000000 91000000
+14BF11A0 0000000X
+E0000000 80008000
+Setting it to 5 gives you infinite attempts.
+
+Golf - Wind Speed [Panda]
+4A000000 91000000
+14BF1338 000000XX
+E0000000 80008000
+
+Golf - Current Stroke [Panda]
+4A000000 91000000
+14BF6EB8 000000XX
+E0000000 80008000
+Set to 01 and you will always get a 'hole in 1'.
+
+Tennis
+
+Tennis - Ball Glow [Romaap]
+283E17AA 00000004
+42000000 92000000
+04138954 00000000
+E0000000 80008000
+283E17AA 00000008
+42000000 92000000
+04138954 40000000
+E0000000 80008000
+283E17AA 00000002
+42000000 92000000
+04138954 42350000
+E0000000 80008000
+283E17AA 00000001
+42000000 92000000
+04138954 43000000
+E0000000 80008000
+Press up for white glow
+Press down for semi-transparant ball
+Press left for red glow
+Press right for blue glow
+
+Invisible Ball [Romaap]
+283E17AA 00000200
+42000000 92000000
+04138900 00000001
+E0000000 80008000
+283E17AA 00000100
+42000000 92000000
+04138900 00000000
+E0000000 80008000
+Press 1 for invisible
+Press 2 for visible
+
+Tennis - Ball Height Up (UP button) [Panda]
+283E17AA 00000008
+4A000000 92000000
+1413875C 41F00000
+E0000000 80008000
+WAIT until ball is in play or you will screw up the game. The ball tops out at about 41F00000 when you serve. The ball can go higher I think but this keeps it manageable.
+
+Tennis - Ball Height Down (DOWN button) [Panda]
+283E17AA 00000004
+4A000000 92000000
+1413875C 3F800000
+E0000000 80008000
+WAIT until ball is in play or you will screw up the game. The floor is about 3F800000. It can be amusing to juggle the ball over and under the CPU and then make it hit the floor and get the point.
+
+Tennis - CPU score always 0 [Panda]
+4A000000 91000000
+14BE1310 00000000
+E0000000 80008000
+4A000000 92000000
+1413FEFC 00000000
+E0000000 80008000
+
+Tennis - Last Hitter = Player (Button 2) [Panda]
+283E17AA 00000100
+4A000000 92000000
+1413FEA0 00000001
+E0000000 80008000
+*READ*: As soon as the CPU has hit the ball press button 2 and leave the ball. You will win the point. If the CPU is serving WAIT for them to hit the ball before you press the button or it will screw things up.
+
+Tennis - Last Hitter = CPU (Button 1) [Panda]
+283E17AA 00000200
+4A000000 92000000
+1413FEA0 00000000
+E0000000 80008000
+*READ*: If you hit the ball and then press button 1 the CPU will think their team last hit the ball so they will leave it which can be amusing. With good timing you can hit the ball, press button 1, wait for CPU to leave it and then quickly press button 2 (see above) and you will win the point.
+
+Baseball
+
+Baseball - Player Score 1st round [Panda]
+4A000000 91000000
+14BFA2EC 000000XX
+E0000000 80008000
+
+Baseball - Player Score 2nd round [Panda]
+4A000000 91000000
+14BFA2F0 000000XX
+E0000000 80008000
+
+Baseball - Player Score 3rd round [Panda]
+4A000000 91000000
+14BFA2F4 000000XX
+E0000000 80008000
+
+Baseball - CPU Score 1st round [Panda]
+4A000000 91000000
+14BFA314 000000XX
+E0000000 80008000
+
+Baseball - CPU Score 2nd round [Panda]
+4A000000 91000000
+14BFA318 000000XX
+E0000000 80008000
+
+Baseball - CPU Score 3rd round [Panda]
+4A000000 91000000
+14BFA31C 000000XX
+E0000000 80008000
+
+Baseball - Visible Player Score (top right) [Panda]
+4A000000 92000000
+141E68D0 000000XX
+E0000000 80008000
+
+Baseball - Visible CPU Score (top right) [Panda]
+4A000000 92000000
+141E68D8 000000XX
+E0000000 80008000
+
+Baseball - Ball count (0,1,2,3) [Panda]
+4A000000 91000000
+14BFA2E0 0000000X
+E0000000 80008000
+If set to 3 then the next 'Ball' makes you run to 1st base.
+
+Baseball - Strike count (0,1,2) [Panda]
+4A000000 91000000
+14BFA2DC 0000000X
+E0000000 80008000
+If set to 2 then the next 'Strike' makes you Out.
+
+Baseball - Out count (0,1,2) [Panda]
+4A000000 91000000
+14BFA2E4 0000000X
+E0000000 80008000
+If set to 2 then the next 'Out' changes play.
+
+Baseball - Set Strike count to 0 (Wiimote L Button) [Panda]
+283E17AA 00000001
+4A000000 91000000
+14BFA2DC 00000000
+E0000000 80008000
+
+Baseball - Set Strike count to 2 (Wiimote R button) [Panda]
+283E17AA 00000002
+4A000000 91000000
+14BFA2DC 00000002
+E0000000 80008000
+
+Baseball - Set Out count to 0 (Wiimote 1 button) [Panda]
+283E17AA 00000200
+4A000000 91000000
+14BFA2E4 00000000
+E0000000 80008000
+
+Baseball - Set Out count to 2 (Wiimote 2 button) [Panda]
+283E17AA 00000100
+4A000000 91000000
+14BFA2E4 00000002
+E0000000 80008000
+
+Boxing
+
+Boxing - 1-Hit KO (1P match) [Romaap]
+42000000 91000000
+14D2881C 00000000
+E0000000 80008000
+
+Boxing - P1 inf health (2P match) [Romaap]
+42000000 91000000
+14D294BC 3F800000
+E0000000 80008000
+
+Boxing - P2 inf health (2P match) [Romaap]
+42000000 91000000
+14D4779C 3F800000
+E0000000 80008000
+
+Boxing - 1-Hit KO P1 (2P match) [Romaap]
+42000000 91000000
+14D294BC 00000000
+E0000000 80008000
+
+Boxing - 1-Hit KO P2 (2P match) [Romaap]
+42000000 91000000
+14D4779C 00000000
+E0000000 80008000
+
+Boxing - Inf Health [Panda]
+4A000000 91000000
+14D0A53C 3F800000
+E0000000 80008000

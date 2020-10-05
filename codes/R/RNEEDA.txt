@@ -1,0 +1,71 @@
+RNEEDA
+Naruto Shippuden Clash of Ninja Revolution 3
+
+Always have 999,999 ryo [wiiztec]
+42000000 90000000
+04027144 000F423F
+E0000000 80008000
+
+Final valley music switcher toggle Z+left(dpad) on GCC [wiiztec]
+283BDC30 00000011
+077E96E0 0000003C
+62676D5F 7374675F
+7368756D 61747375
+5F65785F 6578312E
+62727374 6D006267
+6D5F7374 675F7368
+756D6174 73755F67
+635F6763 342E6272
+73746D00 00000000
+CC000000 00000000
+077E96E0 0000003C
+62676D5F 7374675F
+7368756D 61747375
+5F67635F 6763342E
+62727374 6D006267
+6D5F7374 675F7368
+756D6174 73755F65
+785F6578 312E6272
+73746D00 00000000
+E0000000 80008000
+switches the music that normally plays in the final valley stage for the music that plays when the match is Naruto vs Sasuke (is on by default)
+
+P1 infnite health all offline modes [wiiztec]
+42000000 92000000
+04AEB068 00002710
+E0000000 80008000
+
+P1 infinite chakra all offline modes [wiiztec]
+42000000 92000000
+04AEB084 00002710
+E0000000 80008000
+
+P2 infinite health all offline modes [wiiztec]
+42000000 92000000
+04D8B08A 00002710
+E0000000 80008000
+
+P2 infinite chakra all offline modes [wiiztec]
+42000000 92000000
+04D8B0A4 00002710
+E0000000 80008000
+
+P3/P1's squadmate infinite health all offline modes [wiiztec]
+42000000 92000000
+0502B0A8 00002710
+E0000000 80008000
+
+P3/P1's squadmate infinite chakra all offline modes [wiiztec]
+42000000 92000000
+0502B0C4 00002710
+E0000000 80008000
+
+P4/P2's squadmate infinite health all offline modes [wiiztec]
+42000000 92000000
+052CB0C8 00002710
+E0000000 80008000
+
+P4/P2's squadmate infinite chakra all offline modes [wiiztec]
+42000000 92000000
+052CB0E4 00002710
+E0000000 80008000

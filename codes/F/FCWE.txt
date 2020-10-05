@@ -1,0 +1,29 @@
+FCWE
+Super Mario Bros. 3
+
+Infinite Lives [farjo08]
+004AE3D3 000000BD
+
+Mario Suit Modifier [GMO]
+0046D80D 000000??
+00 Small Mario
+01 Big Mario
+02 Fireball Mario
+03 Leaf Mario
+04 Frog Suit
+05 Raccoon Suit
+06 Hammer Bro Suit
+
+Instant P Charge [GMO]
+0046DAFD 0000007F
+
+Hold B and Press Right on D-Pad for More Time [GMO]
+2820EE28 00000402
+0246DD0E 00000909
+E0000000 80008000
+
+Max Lives [GMO]
+0046DE56 00000063
+
+Max Coins/ Instant 1-Up [GMO]
+005B3062 00000063

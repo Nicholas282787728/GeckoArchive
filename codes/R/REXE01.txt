@@ -1,0 +1,15 @@
+REXE01
+Excite Truck
+
+Infinite Turbo [farjo08]
+04185FBC D03B25A0
+
+Zero Time [farjo08]
+04151514 d05b08d4
+
+Max Stars [farjo08]
+C214a3a0 00000002
+3E40461D 3A523C00
+92550014 00000000
+
+Note: These are a port / based on Zit's original codes for the Japanese version.
