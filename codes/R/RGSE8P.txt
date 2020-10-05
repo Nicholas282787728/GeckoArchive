@@ -1,8 +1,0 @@
-RGSE8P
-GHOST SQUAD
-
-999,999 Exp (enough for Lv99, all Weapons and Customs) [g6flavor]
-04540D04 000F423F
-
-Infinite Life (ported from ZiT's jap code) [g6flavor]
-00033E23 000000B0
